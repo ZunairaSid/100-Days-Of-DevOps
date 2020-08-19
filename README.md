@@ -1,5 +1,10 @@
 **#100DaysOfDevops** is a challenge to read official documentations, FAQs and white papers of AWS different services and do hands-on practice of AWS services , Docker ,Kubernetes and Jenkins with the motive to get AWS Solution Architect Associate , AWS Developer Associate &amp; Kubernetes Administrator certification.
 
+**How am I taking this challenge?***
+
+I’m going to dedicate at least 3 hours from my day for this challenge. Then I’m going to share my progress of what I’ve learned during that day in [today-I-learned.md](https://github.com/ZunairaSid/100-Days-Of-DevOps/blob/master/today-I-learned.md)
+
+
 **Tentative roadmap :**
 
 - AWS
