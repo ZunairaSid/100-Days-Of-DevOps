@@ -15,7 +15,7 @@ I will dedicate at least 3 hours from my day for this challenge and will share m
 
 **White Papers**
 
-&#9745;[AWS Well Architecture Framework](https://bit.ly/3aAfe8J)
+- [x] [AWS Well Architecture Framework](https://bit.ly/3aAfe8J)<br>
 - [ ] [AWS Blue-Green Deployment](https://bit.ly/2Q2r563)
 - [ ] [AWS Security Best Practices](https://bit.ly/2Y6A8aH)
 - [ ] [Implementing](https://bit.ly/2CHErSo)[Microservices on AWS](https://bit.ly/2CHErSo)
@@ -24,8 +24,8 @@ I will dedicate at least 3 hours from my day for this challenge and will share m
 **AWS hands-on task**
 
 
- &#9745; Set up a cost budget and billing alarm.
- &#9745; Configure CloudWatch logs when EC2 CPU utilization exceeds the defined limit. 
+- [x] Set up a cost budget and billing alarm.
+- [x] Configure CloudWatch logs when EC2 CPU utilization exceeds the defined limit. 
 - [ ] Create an IAM Role and Configure an EC2 Instance for AWS Systems Manager.
 - [ ] Build a 3-tier network VPC from scratch.
 - [ ] Create a Multi-Subnet VPC with secure access to private servers with outbound internet access using VPC , private &amp; public subnet ,NAT &amp; internet gateway, Bastion host.
@@ -46,18 +46,18 @@ I will dedicate at least 3 hours from my day for this challenge and will share m
 - [ ] Process DynamoDB stream using lambda.
 - [ ] Migrating from a Relational Database to DynamoDB.
 - [ ] Use Data Pipeline to copy DynamoDB data to an S3 bucket.
- &#9745; Create and configure a CloudTrail trail and a CloudWatch Logs & alarms ,in order to set up access email alerts for an S3 bucket.
+- [x] Create and configure a CloudTrail trail and a CloudWatch Logs & alarms ,in order to set up access email alerts for an S3 bucket.
 - [ ] AWS CloudWatch Logs and Incident Response using Elasticsearch ,Route 53 ,VPC Flow Logs,Elasticsearch Service and Kibana.
- &#9745; Configure CloudWatch alarm with SNS and send email on EC2 shut down.
- &#9745; Config cloud watch dashboard to monitor resource utilization using custom widget and metrics..
+- [x] Configure CloudWatch alarm with SNS and send email on EC2 shut down.&nbsp;
+- [x] Config cloud watch dashboard to monitor resource utilization using custom widget and metrics.
 - [ ] Build ci/cd pipeline using AWS Pipeline to deploy static website on s3.
 - [ ] Build a simple serverless website with route53 , API gateway and lambda.
 - [ ] Serverless web page with API gateway and lambda .
 - [ ] Create a reminder serverless application using a static website hosted on S3 using AWS Step Functions, API Gateway, AWS Lambda.
 - [ ] Trigger a Lambda function using SQS and dynamoDB.
 - [ ] See logs using cloudwatch &amp; create billing alarms.
- &#9745; Deploy a basic infrastructure using CloudFormation Templates.
- &#9745; Updating cloud formation stacks with direct updates and changesets.
+- [x] Deploy a basic infrastructure using CloudFormation Templates.
+- [x] Updating cloud formation stacks with direct updates and changesets.
 - [ ] Deploy a website canary with cloudformation.
 - [ ] Roll updates to a highly distributed web application with AWS CodeDeploy.
 - [ ] Implement AWS CodePipeline to deploy AWS infrastructure through AWS CloudFormation.
