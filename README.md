@@ -7,11 +7,11 @@ I will dedicate at least 3 hours from my day for this challenge and will share m
 
 **Tentative roadmap :**
 
-- AWS
-- Bash Scripting
-- Docker
-- Kubernetes
-- Jenkins
+:curly_loop:   AWS</br>
+:curly_loop: Bash Scripting</br>
+:curly_loop: Docker</br>
+:curly_loop: Kubernetes</br>
+:curly_loop: Jenkins</br>
 
 **White Papers**
 
