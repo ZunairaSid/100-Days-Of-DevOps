@@ -1,7 +1,7 @@
 #
 # **Today I Learned (TIL)**
 
-**Disclaimer** : This timeline is tailored for the intermediate level and might not be suitable for everyone. Will be following [AWS Certified Solutions Architect – Associate (SAA-C02)](https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS-Certified-Solutions-Architect-Associate_Exam-Guide.pdf) , [AWS Certified Developer – Associate (DVA-C01)](https://d1.awsstatic.com/training-and-certification/docs-dev-associate/AWS-Certified-Developer-Associate_Exam-Guide.pdf)exam guides, and [CKA\_Curriculum](https://github.com/cncf/curriculum/blob/master/CKA_Curriculum_V1.18.pdf).
+**Disclaimer** : This timeline is tailored for the intermediate level and might not be suitable for everyone. Will be following [AWS Certified Solutions Architect – Associate (SAA-C02)](https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS-Certified-Solutions-Architect-Associate_Exam-Guide.pdf) , [AWS Certified Developer – Associate (DVA-C01)](https://d1.awsstatic.com/training-and-certification/docs-dev-associate/AWS-Certified-Developer-Associate_Exam-Guide.pdf)exam guides, and [CKA\_Curriculum](https://github.com/cncf/curriculum/blob/master/CKA_Curriculum_V1.18.pdf).</br>
 _\* I will be using AWS service of Infrastructure as Code(IaC) **CloudFormation** for all practice tasks._
 
 ************
@@ -14,11 +14,11 @@ _\* I will be using AWS service of Infrastructure as Code(IaC) **CloudFormation*
 
 **Today&#39;s Progress:**
 
-_Readings_
-Hands-on
- Quiz
-
-Whitepaper
+_Readings_</br>
+_Hands-on_</br>
+ _Quiz_</br>
+_Whitepaper_</br>
+_Important Links_</br>
 
 **Links**
 ![](RackMultipart20200820-4-buben2_html_237499165a11f2b9.gif)
@@ -66,14 +66,39 @@ _Readings:_
 
 - Read the [Cloud Formation](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/Welcome.html) user guide.
 - Read FAQs of [Cloud Formation](https://aws.amazon.com/cloudformation/faqs/).
-- Read [AWS well-architected white paper](https://d1.awsstatic.com/whitepapers/architecture/AWS_Well-Architected_Framework.pdf).
+- Read half [AWS well-architected white paper](https://d1.awsstatic.com/whitepapers/architecture/AWS_Well-Architected_Framework.pdf).
 
 _Hands-on:_
 
 - Build a basic infrastructure environment with an EC2 instance using cloud formation in JSON and YAML to understand its anatomy.
 - Updating cloud formation stacks with direct updates and changesets.
 
+Important links: [Templates snippets](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/CHAP_TemplateQuickRef.html)
+
 ![](RackMultipart20200822-4-4cyktl_html_237499165a11f2b9.gif)
+
+
+************
+
+**DAY 03 | 09/23/2020 | Sunday**
+
+**Today&#39;s Progress:** Practicing AWS Management &amp; Governances: Cloud Formation.
+
+
+_Readings:_
+
+- Completed reading [AWS well-architected white paper](https://d1.awsstatic.com/whitepapers/architecture/AWS_Well-Architected_Framework.pdf).
+- In-depth study of CloudFormation template anatomy.
+
+Hands-on:
+
+- Used three CloudFormation templates to build stacks and deploy DynamoDB tables, a VPC, and an S3 bucket.
+- Deployed a web server using a cloud formation designer.
+- Used condition function to determine if the VPC deployed by the template will be configured with default or dedicated tenancy.
+- Deployed EC2 instance using cross-stack references.
+
+![](RackMultipart20200823-4-16tdcwq_html_237499165a11f2b9.gif)
+
 
 
 ************
