@@ -102,3 +102,19 @@ Hands-on:
 
 
 ************
+
+**DAY 04 | 09/24/2020 | Monday**
+
+**Today&#39;s Progress:** Learning &amp; practicing AWS Security, Identity, &amp; Compliance services: IAM, Cognito, Amazon Inspector, Amazon Macie, WAF
+
+_Readings:_
+
+- Read FAQs of [Identity and Access Management](https://aws.amazon.com/iam/faqs/), [Cognito](https://aws.amazon.com/cognito/faqs/), [Amazon Inspector](https://aws.amazon.com/inspector/faqs/), [Amazon Macie](https://aws.amazon.com/macie/faq/), [WAF](https://aws.amazon.com/waf/faq/).
+
+_Hands-on:_
+
+- Played around with roles &amp; policies assigning, users &amp; groups management, created inline, managed &amp; custom policy, assign API access key, password policies,
+- Created a new user with limited permissions to AWS resources.
+- Created Cloud Formation template from existing resources using cloud former.
+
+![](RackMultipart20200824-4-1wyb7w0_html_237499165a11f2b9.gif)
