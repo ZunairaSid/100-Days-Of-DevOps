@@ -118,3 +118,23 @@ _Hands-on:_
 - Created Cloud Formation template from existing resources using cloud former.
 
 ![](RackMultipart20200824-4-1wyb7w0_html_237499165a11f2b9.gif)
+
+
+************
+
+**DAY 05 | 08/25/2020 | Tuesday**
+
+**Today&#39;s Progress:** Learning &amp; practicing AWS Security, Identity, &amp; Compliance services: AWS Directory Service, RAM, Single Sign-on.
+
+_Reading:_
+
+- Official documentation of [AWS Directory Service](https://docs.aws.amazon.com/directoryservice/latest/admin-guide/what_is.html), [AWS Resource Access Management(RAM)](https://docs.aws.amazon.com/ram/latest/userguide/what-is.html), [Single Sign-on](https://docs.aws.amazon.com/singlesignon/latest/userguide/what-is.html).
+- FAQs of [AWS Directory service](https://aws.amazon.com/directoryservice/faqs/), [AWS Resource Access Manager](https://aws.amazon.com/ram/faqs/), [Single Sign-on](https://aws.amazon.com/single-sign-on/faqs/).
+
+_Hands-on:_
+
+  - Played around with Cognito.
+
+![](RackMultipart20200825-4-1c7gn9o_html_237499165a11f2b9.gif)
+
+************
