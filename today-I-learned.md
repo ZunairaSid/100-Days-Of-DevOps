@@ -20,7 +20,6 @@ _Hands-on_</br>
 _Whitepaper_</br>
 _Important Links_</br>
 
-**Links**
 ![](RackMultipart20200820-4-buben2_html_237499165a11f2b9.gif)
 ************
 
@@ -60,7 +59,7 @@ Important links: [Metrics filer](https://amzn.to/3j3WXUj) , [Cloudtrail-policy-f
 ************
 **DAY 02 | 09/22/2020 | Saturday**
 
-**Today&#39;s Progress:** Learning &amp; practicing AWS Management &amp; Governances: Cloud Formation.
+**Today&#39;s Progress:** Learning &amp; practicing AWS Management &amp; Governances: _Cloud Formation._
 
 _Readings:_
 
@@ -73,7 +72,7 @@ _Hands-on:_
 - Build a basic infrastructure environment with an EC2 instance using cloud formation in JSON and YAML to understand its anatomy.
 - Updating cloud formation stacks with direct updates and changesets.
 
-Important links: [Templates snippets](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/CHAP_TemplateQuickRef.html)
+_Important links:_ [Templates snippets](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/CHAP_TemplateQuickRef.html),[CF deep-dive](https://github.com/natonic/CloudFormation-Deep-Dive)
 
 ![](RackMultipart20200822-4-4cyktl_html_237499165a11f2b9.gif)
 
@@ -82,7 +81,7 @@ Important links: [Templates snippets](https://docs.aws.amazon.com/AWSCloudFormat
 
 **DAY 03 | 09/23/2020 | Sunday**
 
-**Today&#39;s Progress:** Practicing AWS Management &amp; Governances: Cloud Formation.
+**Today&#39;s Progress:** Practicing AWS Management &amp; Governances: _Cloud Formation._
 
 
 _Readings:_
@@ -97,6 +96,7 @@ Hands-on:
 - Used condition function to determine if the VPC deployed by the template will be configured with default or dedicated tenancy.
 - Deployed EC2 instance using cross-stack references.
 
+_Important links:_ [Sample templates](https://github.com/JulieElkinsAWS/CFtemplates),[AWS resource and property types](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-template-resource-type-ref.html)
 ![](RackMultipart20200823-4-16tdcwq_html_237499165a11f2b9.gif)
 
 
@@ -105,7 +105,7 @@ Hands-on:
 
 **DAY 04 | 09/24/2020 | Monday**
 
-**Today&#39;s Progress:** Learning &amp; practicing AWS Security, Identity, &amp; Compliance services: IAM, Cognito, Amazon Inspector, Amazon Macie, WAF
+**Today&#39;s Progress:** Learning &amp; practicing AWS Security, Identity, &amp; Compliance services: _IAM, Cognito, Amazon Inspector, Amazon Macie, WAF_
 
 _Readings:_
 
@@ -124,11 +124,11 @@ _Hands-on:_
 
 **DAY 05 | 08/25/2020 | Tuesday**
 
-**Today&#39;s Progress:** Learning &amp; practicing AWS Security, Identity, &amp; Compliance services: AWS Directory Service, RAM, Single Sign-on.
+**Today&#39;s Progress:** Learning &amp; practicing AWS Security, Identity, &amp; Compliance services: _AWS Directory Service, RAM, Single Sign-on_.
 
 _Reading:_
 
-- Official documentation of [AWS Directory Service](https://docs.aws.amazon.com/directoryservice/latest/admin-guide/what_is.html), [AWS Resource Access Management(RAM)](https://docs.aws.amazon.com/ram/latest/userguide/what-is.html), [Single Sign-on](https://docs.aws.amazon.com/singlesignon/latest/userguide/what-is.html).
+- Read about [AWS Directory Service](https://docs.aws.amazon.com/directoryservice/latest/admin-guide/what_is.html), [AWS Resource Access Management(RAM)](https://docs.aws.amazon.com/ram/latest/userguide/what-is.html), [Single Sign-on](https://docs.aws.amazon.com/singlesignon/latest/userguide/what-is.html).
 - FAQs of [AWS Directory service](https://aws.amazon.com/directoryservice/faqs/), [AWS Resource Access Manager](https://aws.amazon.com/ram/faqs/), [Single Sign-on](https://aws.amazon.com/single-sign-on/faqs/).
 
 _Hands-on:_
@@ -138,3 +138,24 @@ _Hands-on:_
 ![](RackMultipart20200825-4-1c7gn9o_html_237499165a11f2b9.gif)
 
 ************
+
+**DAY 06 | 09/26/2020 | Wednesday**
+
+**Today&#39;s Progress:** Learning &amp; practicing AWS Networking &amp; Content Delivery: _VPC, Direct Connect, Global Accelerator, API gateway._
+
+_Reading:_
+
+- Read about [Nat gateway](https://docs.aws.amazon.com/vpc/latest/userguide/vpc-nat-gateway.html), [VPC flow logs](https://docs.aws.amazon.com/vpc/latest/userguide/flow-logs.html), [VPC endpoint](https://docs.aws.amazon.com/vpc/latest/userguide/endpoint-services-overview.html), [Direct connect](https://docs.aws.amazon.com/directconnect/latest/UserGuide/Welcome.html), [Network ACL](https://docs.aws.amazon.com/vpc/latest/userguide/vpc-network-acls.html), [Global Accelerator](https://docs.aws.amazon.com/global-accelerator/latest/dg/what-is-global-accelerator.html), [API gateway](https://docs.aws.amazon.com/apigateway/?id=docs_gateway).
+- FAQs of [VPC](https://aws.amazon.com/vpc/faqs/).
+- Read [a comparison of NAT gateway and NAT instance](https://docs.aws.amazon.com/vpc/latest/userguide/vpc-nat-comparison.html).
+
+_Hands-on:_
+
+  - Built 3-tier network VPC from scratch. Built and connected VPC, multiple availability zones subnets, Internet Gateway, Route Tables, Nat gateway, &amp; Access Control List.
+  - Created and connected VPC endpoint and S3 bucket.
+  - Used Security groups and Network AccessControl lists to secure the different layers of a multi-tier to secure network.
+
+![](RackMultipart20200826-4-1ogakie_html_237499165a11f2b9.gif)
+
+
+*******************
