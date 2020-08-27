@@ -25,41 +25,43 @@ I will dedicate at least 3 hours from my day for this challenge and will share m
 
 
 - [x] Set up a cost budget and billing alarm.<br>
-- [x] Configure CloudWatch logs when EC2 CPU utilization exceeds the defined limit.<br>
-- [x] Build a 3-tier network VPC from scratch <br>
-- [ ] Create an IAM Role and Configure an EC2 Instance for AWS Systems Manager.<br>
+- [x] Configure CloudWatch alarm when EC2 CPU utilization exceeds the defined limit.<br>
+- [x] Build a 3-tier network from scratch using VPC,subnets, NACL,Internet gateway ,NAT gateway and route tables. <br>
+- [ ] Create an IAM Role and configure an EC2 Instance for AWS Systems Manager.<br>
 
-- [x] Create a Multi-Subnet VPC with secure access to private servers with outbound internet access using VPC , private &amp; public subnet ,NAT &amp; internet gateway, Bastion host.<br>
-- [x] Create VPC endpoints and an s3 bucket.<br>
-- [ ] Managing Data in S3 with Versioning and Lifecycle Rules.
+- [x] Create a Multi-Subnet network with secure access to private servers with outbound internet access using VPC , private &amp; public subnets ,NAT gateway &amp; Internet Gateway, and Bastion Host.<br>
+- [x] Create VPC endpoints and attach it to S3 bucket.<br>
+- [x] Monitor VPC using VPC flow logs and Amazon Athena<br>
+- [ ] Manage data in S3 with Versioning and Lifecycle Rules.
 - [ ] Secure S3 bucket policies using IAM policies.
 - [x] Create an EC2 work station and give limited permission to a IAM user to use it.<br>
 - [ ] Build Fault Tolerance Website.
 - [ ] Create a custom AMI.
 - [ ] Create a status website using EC2, S3 ,IAM roles and bash script.
 - [ ] Use AWS scheduler to shut down EC2 instances.
-- [ ] Build a static website with a custom domain, using Route 53 Alias record sets and s3 bucket.
-- [ ] Build a website from two EC2 instances, and will route traffic using an Application Load Balancer ELB ,create and manage DNS records inside of Route 53.
+- [ ] Build a static website with a custom domain, using Route 53 Alias record sets and S3 bucket.
+- [ ] Build a website from two EC2 instances, and route traffic using an Application Load Balancer. Create and manage DNS records inside of Route 53.
 - [ ] Troubleshoot elastic load balancer connectivity.
+- [x] Troubleshoot  network connectivity connectivity in 3-tier network.
 - [ ] Manage the deployment of EC2 instances in an Auto Scaling Group using Lifecycle Hooks.
 - [ ] Backup and restore from dynamoDB.
 - [ ] Use the Database Migrations Service (DMS) to migrate a database from an EC2 server to RDS.
 - [ ] Process DynamoDB stream using lambda.
-- [ ] Migrating from a Relational Database to DynamoDB.
+- [ ] Migrate data from a Relational Database to DynamoDB.
 - [ ] Use Data Pipeline to copy DynamoDB data to an S3 bucket.
-- [x] Create and configure a CloudTrail trail and a CloudWatch Logs & alarms ,in order to set up access email alerts for an S3 bucket.<br>
-- [ ] AWS CloudWatch Logs and Incident Response using Elasticsearch ,Route 53 ,VPC Flow Logs,Elasticsearch Service and Kibana.
+- [x] Create and configure a CloudTrail trail and a CloudWatch Logs & alarms ,in order to set up access email alerts for an S3 bucket write/read.<br>
+- [ ] Set AWS CloudWatch Logs and Incident Response using Elasticsearch ,Route 53 ,VPC Flow Logs,Elasticsearch Service and Kibana.
 - [x] Configure CloudWatch alarm with SNS and send email on EC2 shut down.<br>
 - [x] Config cloud watch dashboard to monitor resource utilization using custom widget and metrics.<br>
-- [ ] Build ci/cd pipeline using AWS Pipeline to deploy static website on s3.
+- [ ] Build CI/CD pipeline using AWS Pipeline to deploy static website on s3.
 - [ ] Build a simple serverless website with route53 , API gateway and lambda.
-- [ ] Serverless web page with API gateway and lambda .
-- [ ] Create a reminder serverless application using a static website hosted on S3 using AWS Step Functions, API Gateway, AWS Lambda.
+- [ ] Create Serverless web page with API gateway and lambda .
+- [ ] Create a reminder serverless application using a static website , hosted on S3 , using AWS Step Functions, API Gateway, AWS Lambda.
 - [ ] Trigger a Lambda function using SQS and dynamoDB.
 - [x] See logs using cloudwatch &amp; create billing alarms. <br>
+- [x] Deploy a website canary using cloudformation. <br>
 - [x] Deploy a basic infrastructure using CloudFormation Templates.<br>
-- [x] Updating cloud formation stacks with direct updates and changesets.<br>
-- [ ] Deploy a website canary with cloudformation.
+- [x] Update cloud formation stacks with direct updates and changesets.<br>
 - [ ] Roll updates to a highly distributed web application with AWS CodeDeploy.
 - [ ] Implement AWS CodePipeline to deploy AWS infrastructure through AWS CloudFormation.
 - [x] Created Cloud Formation template from existing resources using cloud former.<br>
@@ -67,7 +69,7 @@ I will dedicate at least 3 hours from my day for this challenge and will share m
 - [ ] Work with SQS standand queues and FIFO queues.
 - [ ] Create and subscribe to AWS SNS topics.
 - [ ] Create a Beanstalk application using CLI .
-- [ ] Patching live kubernetes deployments and drai a node for maintenance.
+- [ ] Patch live kubernetes deployments and drain a node for maintenance.
 
 **Kubernetes Hands-on task**
 
