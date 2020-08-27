@@ -159,3 +159,16 @@ _Hands-on:_
 
 
 *******************
+**DAY 07 | 09/27/2020 | Thursday**
+
+**Today&#39;s Progress:** Learning &amp; practicing AWS Networking &amp; Content Delivery:
+
+_Hands-on:_
+
+  - Troubleshooting Network connectivity: Security groups and NACLS.
+  - Monitor VPC using a VPC flow log.
+  - Deploy website canary with cloud formation.
+
+
+
+*******************
