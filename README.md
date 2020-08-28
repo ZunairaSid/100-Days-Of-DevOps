@@ -17,7 +17,7 @@ I will dedicate at least 3 hours from my day for this challenge and will share m
 
 - [x] [AWS Well Architecture Framework](https://bit.ly/3aAfe8J)<br>
 - [ ] [AWS Blue-Green Deployment](https://bit.ly/2Q2r563)
-- [ ] [AWS Security Best Practices](https://bit.ly/2Y6A8aH)
+- [x] [Overview of Security Processes](https://d1.awsstatic.com/whitepapers/Security/Intro_to_AWS_Security.pdf?did=wp_card&trk=wp_card)<br>
 - [ ] [Implementing](https://bit.ly/2CHErSo)[Microservices on AWS](https://bit.ly/2CHErSo)
 - [ ] [Practicing](https://d1.awsstatic.com/whitepapers/DevOps/practicing-continuous-integration-continuous-delivery-on-AWS.pdf)[CI/CD on AWS](https://d1.awsstatic.com/whitepapers/DevOps/practicing-continuous-integration-continuous-delivery-on-AWS.pdf)
 
@@ -31,6 +31,7 @@ I will dedicate at least 3 hours from my day for this challenge and will share m
 
 - [x] Create a Multi-Subnet network with secure access to private servers with outbound internet access using VPC , private &amp; public subnets ,NAT gateway &amp; Internet Gateway, and Bastion Host.<br>
 - [x] Create VPC endpoints and attach it to S3 bucket.<br>
+- [x] Enabled IPv6 on a VPC with a Private Subnet and Egress-Only Internet Gateway and verify connectivity.<br>
 - [x] Monitor VPC using VPC flow logs and Amazon Athena<br>
 - [ ] Manage data in S3 with Versioning and Lifecycle Rules.
 - [ ] Secure S3 bucket policies using IAM policies.
