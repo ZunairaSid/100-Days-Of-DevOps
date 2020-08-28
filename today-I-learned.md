@@ -172,3 +172,20 @@ _Hands-on:_
 
 
 *******************
+
+**DAY 08 | 09/28/2020 | Friday**
+
+**Today&#39;s Progress:** Learning &amp; practicing AWS Networking &amp; Content Delivery:
+
+_Reading:_
+
+- Read whitepaper [Overview of Security Processes](https://d0.awsstatic.com/whitepapers/aws-security-whitepaper.pdf)
+
+_Hands-on:_
+
+  - Enabled IPv6 on a VPC with a Private Subnet and Egress-Only Internet Gateway and verify that you can ping outbound, but not inbound to the private instance&#39;s IPv6 address.
+
+![](RackMultipart20200828-4-l23tc2_html_237499165a11f2b9.gif)
+
+
+*************************
