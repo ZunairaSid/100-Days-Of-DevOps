@@ -47,9 +47,9 @@ _Hands-on:_
 
 - Set up a [cost budget](https://aws.amazon.com/getting-started/hands-on/control-your-costs-free-tier-budgets/) and [billing alarm](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/monitor_estimated_charges_with_cloudwatch.html) on AWS so I don&#39;t get a big AWS bill.
 - Set up a CloudWatch Events alarm that triggers an SNS email notification on EC2 shut down.
-- Configure CloudWatch logs when EC2 CPU utilization exceeds the defined limit.
-- Config cloud watch dashboard to monitor resource utilization using custom widget and metrics.
-- Aws access control alerts using cloud watch , cloud trails and SNS.
+- Configured CloudWatch logs when EC2 CPU utilization exceeds the defined limit.
+- Configured cloud watch dashboard to monitor resource utilization using custom widget and metrics.
+- Configured access control alerts using cloud watch , cloud trails and SNS.
 
 Important links: [Metrics filer](https://amzn.to/3j3WXUj) , [Cloudtrail-policy-for-cloudwatch-logs](https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-required-policy-for-cloudwatch-logs.html) .
 
@@ -70,7 +70,7 @@ _Readings:_
 _Hands-on:_
 
 - Build a basic infrastructure environment with an EC2 instance using cloud formation in JSON and YAML to understand its anatomy.
-- Updating cloud formation stacks with direct updates and changesets.
+- Updated cloud formation stacks with direct updates and changesets.
 
 _Important links:_ [Templates snippets](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/CHAP_TemplateQuickRef.html),[CF deep-dive](https://github.com/natonic/CloudFormation-Deep-Dive)
 
@@ -87,7 +87,7 @@ _Important links:_ [Templates snippets](https://docs.aws.amazon.com/AWSCloudForm
 _Readings:_
 
 - Completed reading [AWS well-architected white paper](https://d1.awsstatic.com/whitepapers/architecture/AWS_Well-Architected_Framework.pdf).
-- In-depth study of CloudFormation template anatomy.
+- Did in-depth study of CloudFormation template anatomy.
 
 Hands-on:
 
@@ -146,7 +146,7 @@ _Hands-on:_
 _Reading:_
 
 - Read about [Nat gateway](https://docs.aws.amazon.com/vpc/latest/userguide/vpc-nat-gateway.html), [VPC flow logs](https://docs.aws.amazon.com/vpc/latest/userguide/flow-logs.html), [VPC endpoint](https://docs.aws.amazon.com/vpc/latest/userguide/endpoint-services-overview.html), [Direct connect](https://docs.aws.amazon.com/directconnect/latest/UserGuide/Welcome.html), [Network ACL](https://docs.aws.amazon.com/vpc/latest/userguide/vpc-network-acls.html), [Global Accelerator](https://docs.aws.amazon.com/global-accelerator/latest/dg/what-is-global-accelerator.html), [API gateway](https://docs.aws.amazon.com/apigateway/?id=docs_gateway).
-- FAQs of [VPC](https://aws.amazon.com/vpc/faqs/).
+- Read FAQs of [VPC](https://aws.amazon.com/vpc/faqs/).
 - Read [a comparison of NAT gateway and NAT instance](https://docs.aws.amazon.com/vpc/latest/userguide/vpc-nat-comparison.html).
 
 _Hands-on:_
@@ -165,9 +165,9 @@ _Hands-on:_
 
 _Hands-on:_
 
-  - Troubleshooting Network connectivity: Security groups and NACLS.
-  - Monitor VPC using a VPC flow log.
-  - Deploy website canary with cloud formation.
+  - Troubleshooted network connectivity.
+  - Monitored VPC using a VPC flow log.
+  - Deployed website canary with cloud formation.
 
 
 
@@ -183,7 +183,7 @@ _Reading:_
 
 _Hands-on:_
 
-  - Enabled IPv6 on a VPC with a Private Subnet and Egress-Only Internet Gateway and verify that you can ping outbound, but not inbound to the private instance&#39;s IPv6 address.
+  - Enabled IPv6 on a VPC with a private Subnet and Egress-Only Internet Gateway and verified connectivity.
 
 ![](RackMultipart20200828-4-l23tc2_html_237499165a11f2b9.gif)
 
@@ -205,7 +205,7 @@ _Hands-on:_
   - Assigned FQDN (fully qualified domain name) to EC2 instance using route53.
   - Hosted static website with custom domain on AWS S3.
   - Managed DNS records with route53 for a highly available web server.
-  - Configured hybrid DNS using Route 53 inbound and outbound resolver endpoints
+  - Configured hybrid DNS using Route 53 inbound and outbound resolver endpoints.
 
 Important Links:
 
