@@ -189,3 +189,30 @@ _Hands-on:_
 
 
 *************************
+
+**DAY 09 | 09/29/2020 | Saturday**
+
+**Today&#39;s Progress:** Learning &amp; practicing AWS Networking &amp; Content Delivery: Route53.
+
+_Reading:_
+
+- Read [Route 53](https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/getting-started.html) and[DNS](https://docs.aws.amazon.com/vpc/latest/userguide/vpc-dns.html) user guide.
+- Read FAQs of [Route 53](https://aws.amazon.com/route53/faqs/).
+
+_Hands-on:_
+
+  - Registered DNS, Route53 routing policies.
+  - Assigned FQDN (fully qualified domain name) to EC2 instance using route53.
+  - Hosted static website with custom domain on AWS S3.
+  - Managed DNS records with route53 for a highly available web server.
+  - Configured hybrid DNS using Route 53 inbound and outbound resolver endpoints
+
+Important Links:
+
+  - [Static website](https://github.com/linuxacademy/csa-a-2018/tree/master/penguinsite) ,Debugging ([nslookup](https://searchnetworking.techtarget.com/definition/nslookup) ,[Dig](https://www.a2hosting.com/kb/getting-started-guide/internet-and-networking/troubleshooting-dns-with-dig-and-nslookup) ,[dig + trace](https://ns1.com/blog/using-dig-trace) )
+
+![](RackMultipart20200829-4-1bjiw0h_html_237499165a11f2b9.gif)
+
+
+
+*************************
