@@ -39,10 +39,11 @@ I will dedicate at least 3 hours from my day for this challenge and will share m
 - [ ] Build Fault Tolerance Website.
 - [ ] Create a custom AMI.
 - [ ] Create a status website using EC2, S3 ,IAM roles and bash script.
-- [ ] Use AWS scheduler to shut down EC2 instances.
-- [ ] Build a static website with a custom domain, using Route 53 Alias record sets and S3 bucket.
-- [ ] Build a website from two EC2 instances, and route traffic using an Application Load Balancer. Create and manage DNS records inside of Route 53.
+- [ ] Use AWS scheduler to shut down EC2 instances.<br>
+- [x] Build a static website with a custom domain, using Route 53 Alias record sets and S3 bucket.<br>
+- [x] Build a website from two EC2 instances, and route traffic using an Application Load Balancer. Create and manage DNS records inside of Route 53.<br>
 - [ ] Troubleshoot elastic load balancer connectivity.
+- [x] Configured hybrid DNS using Route 53 inbound and outbound resolver endpoints.<br>
 - [x] Troubleshoot  network connectivity connectivity in 3-tier network.
 - [ ] Manage the deployment of EC2 instances in an Auto Scaling Group using Lifecycle Hooks.
 - [ ] Backup and restore from dynamoDB.
