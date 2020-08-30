@@ -216,3 +216,20 @@ Important Links:
 
 
 *************************
+
+**DAY 10 | 09/30/2020 | Sunday**
+
+**Today&#39;s Progress:** Learning &amp; practicing AWS Networking &amp; Content Delivery: CloudFront.
+_Reading:_
+
+- Read about [CloudFront](https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/Introduction.html).
+- Read[FAQs of CloudFront](https://aws.amazon.com/cloudfront/faqs/).
+
+_Hands-on:_
+
+  - Set up CloudFront as HTTPS endpoint for S3.
+
+![](RackMultipart20200830-4-1dxpjps_html_237499165a11f2b9.gif)
+
+
+****************
