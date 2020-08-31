@@ -28,13 +28,16 @@ I will dedicate at least 3 hours from my day for this challenge and will share m
 - [x] Configure CloudWatch alarm when EC2 CPU utilization exceeds the defined limit.<br>
 - [x] Build a 3-tier network from scratch using VPC,subnets, NACL,Internet gateway ,NAT gateway and route tables. <br>
 - [ ] Create an IAM Role and configure an EC2 Instance for AWS Systems Manager.<br>
-
+- [x] Set up CloudFront as HTTPS endpoint for S3.<br>
 - [x] Create a Multi-Subnet network with secure access to private servers with outbound internet access using VPC , private &amp; public subnets ,NAT gateway &amp; Internet Gateway, and Bastion Host.<br>
 - [x] Create VPC endpoints and attach it to S3 bucket.<br>
 - [x] Enabled IPv6 on a VPC with a Private Subnet and Egress-Only Internet Gateway and verify connectivity.<br>
 - [x] Monitor VPC using VPC flow logs and Amazon Athena<br>
-- [ ] Manage data in S3 with Versioning and Lifecycle Rules.
-- [ ] Secure S3 bucket policies using IAM policies.
+- [x] Manage data in S3 with versioning , CORS and Lifecycle Rules.<br>
+- [x] Secure S3 bucket policies using IAM policies.<br>
+- [x] Share S3 bucket across accounts.<br>
+- [x] Create an S3 bucket batch operation job.<br>
+- [x] Migrate BLOB data stored in a relational database table to S3.<br>
 - [x] Create an EC2 work station and give limited permission to a IAM user to use it.<br>
 - [ ] Build Fault Tolerance Website.
 - [ ] Create a custom AMI.
