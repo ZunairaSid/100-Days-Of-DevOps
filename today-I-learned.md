@@ -233,3 +233,26 @@ _Hands-on:_
 
 
 ****************
+
+**DAY 11 | 09/31/2020 | Monday**
+
+**Today&#39;s Progress:** Learning &amp; practicing AWS Storage: S3 ,S3 glacier.
+
+_Reading:_
+
+- Read about the [S3 security ,encryption , policies ,versioning, CORS ,lifecycle management,object lock ,select &amp; performance optimization.](https://docs.aws.amazon.com/AmazonS3/latest/dev/Welcome.html)
+- Read about [S3 glacier.](https://docs.aws.amazon.com/amazonglacier/latest/dev/introduction.html)
+- Read FAQs of[S3](https://aws.amazon.com/s3/faqs/) and [S3 glacier](https://aws.amazon.com/glacier/faqs/).
+
+_Hands-on:_
+
+  - Created an S3 bucket with lifecycle rules, CORS, and versioning.
+  - Secured S3 bucket using IAM policies.
+  - Shared s3 bucket across accounts.
+  - Created an S3 bucket batch operation job.
+  - Migrated BLOB data stored in a relational database table to S3.
+
+![](RackMultipart20200831-4-izdwv9_html_237499165a11f2b9.gif)
+
+
+**************************
