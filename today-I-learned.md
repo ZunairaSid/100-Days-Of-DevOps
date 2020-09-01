@@ -247,8 +247,8 @@ _Reading:_
 _Hands-on:_
 
   - Created an S3 bucket with lifecycle rules, CORS, and versioning.
-  - Secured S3 bucket using IAM policies.
-  - Shared s3 bucket across accounts.
+  - Secured S3 bucket using IAM policies and bucket policies.
+  - Shared S3 bucket across accounts.
   - Created an S3 bucket batch operation job.
   - Migrated BLOB data stored in a relational database table to S3.
 
@@ -256,3 +256,24 @@ _Hands-on:_
 
 
 **************************
+
+**DAY 12 | 10/1/2020 | Tuesday**
+
+**Today&#39;s Progress:** Learning &amp; practicing AWS Storage: EFS.
+
+_Reading:_
+
+- Read about [EBS](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AmazonEBS.html), [EBS snapshot](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EBSSnapshots.html), and [EFS](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AmazonEFS.html),[Amazon Athena](https://docs.aws.amazon.com/athena/latest/ug/what-is.html).
+- Read FAQs of[EFS](https://aws.amazon.com/efs/faq/),[EBS](https://aws.amazon.com/ebs/faqs/), and [Amazon Athena](https://aws.amazon.com/athena/faqs/).
+
+_Hands-on:_
+
+  - Set up a S3 static website using AWS CLI.
+  - Integrated KMS custom keys with S3 objects.
+  - Analyzed data in S3 with Amazon Athena.
+  - Set up an 2 EC2 instances with an autoscaling group and resized EBS volumes for performance.
+
+![](RackMultipart20200901-4-1cmcgrv_html_237499165a11f2b9.gif)
+
+
+***************
