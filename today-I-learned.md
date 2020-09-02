@@ -251,7 +251,8 @@ _Hands-on:_
   - Shared S3 bucket across accounts.
   - Created an S3 bucket batch operation job.
   - Migrated BLOB data stored in a relational database table to S3.
-
+  
+ Important Links: [S3-cli](https://docs.aws.amazon.com/cli/latest/reference/s3/) ,[S3api-cli](https://docs.aws.amazon.com/cli/latest/reference/s3api/) , [Optimising-data](https://github.com/linuxacademy/Introduction-to-Optimizing-Data-Storage-in-AWS/tree/master/Lab)
 ![](RackMultipart20200831-4-izdwv9_html_237499165a11f2b9.gif)
 
 
@@ -277,3 +278,27 @@ _Hands-on:_
 
 
 ***************
+
+
+
+![](RackMultipart20200902-4-1bs1qed_html_237499165a11f2b9.gif)
+
+**DAY 12 | 10/2/2020 | Wednesday**
+
+**Today&#39;s Progress:** Learning &amp; practicing AWS Storage: EFS.
+
+_Reading:_
+
+- Read about optimizing data storage in AWS and EFx.
+- Read FAQs of[EC2](https://aws.amazon.com/ec2/faqs/).
+
+_Hands-on:_
+
+  - Troubleshoot EC2 network connectivity issues.
+  - Created and validated connectivity for Amazon EC2 instance in a public and private subnet.
+
+![](RackMultipart20200902-4-1bs1qed_html_237499165a11f2b9.gif)
+
+
+
+**********************
