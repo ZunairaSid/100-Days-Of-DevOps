@@ -283,7 +283,7 @@ _Hands-on:_
 
 ![](RackMultipart20200902-4-1bs1qed_html_237499165a11f2b9.gif)
 
-**DAY 12 | 10/2/2020 | Wednesday**
+**DAY 13 | 10/2/2020 | Wednesday**
 
 **Today&#39;s Progress:** Learning &amp; practicing AWS Storage: EFS.
 
