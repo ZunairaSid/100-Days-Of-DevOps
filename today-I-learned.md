@@ -223,7 +223,7 @@ Important Links:
 _Reading:_
 
 - Read about [CloudFront](https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/Introduction.html).
-- Read[FAQs of CloudFront](https://aws.amazon.com/cloudfront/faqs/).
+- Read [FAQs of CloudFront](https://aws.amazon.com/cloudfront/faqs/).
 
 _Hands-on:_
 
@@ -242,7 +242,7 @@ _Reading:_
 
 - Read about the [S3 security ,encryption , policies ,versioning, CORS ,lifecycle management,object lock ,select &amp; performance optimization.](https://docs.aws.amazon.com/AmazonS3/latest/dev/Welcome.html)
 - Read about [S3 glacier.](https://docs.aws.amazon.com/amazonglacier/latest/dev/introduction.html)
-- Read FAQs of[S3](https://aws.amazon.com/s3/faqs/) and [S3 glacier](https://aws.amazon.com/glacier/faqs/).
+- Read FAQs of [S3](https://aws.amazon.com/s3/faqs/) and [S3 glacier](https://aws.amazon.com/glacier/faqs/).
 
 _Hands-on:_
 
@@ -290,7 +290,7 @@ _Hands-on:_
 _Reading:_
 
 - Read about optimizing data storage in AWS and EFx.
-- Read FAQs of[EC2](https://aws.amazon.com/ec2/faqs/).
+- Read FAQs of [EC2](https://aws.amazon.com/ec2/faqs/).
 
 _Hands-on:_
 
@@ -302,3 +302,19 @@ _Hands-on:_
 
 
 **********************
+
+**DAY 13 | 10/03/2020 | Thursday**
+
+**Today&#39;s Progress:** Learning &amp; practicing AWS Compute: EC2.
+
+_Hands-on:_
+
+  - Performed backup and restore using AMIs and EBS.
+  - Created a custom AMI.
+  - Used EC2 image builder to create custom AMI.
+  - Deployed Tomcat application dynamically.
+
+![](RackMultipart20200903-4-17px9vy_html_237499165a11f2b9.gif)
+
+
+******************
