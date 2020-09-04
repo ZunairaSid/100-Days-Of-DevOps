@@ -303,7 +303,7 @@ _Hands-on:_
 
 **********************
 
-**DAY 13 | 10/03/2020 | Thursday**
+**DAY 14 | 10/03/2020 | Thursday**
 
 **Today&#39;s Progress:** Learning &amp; practicing AWS Compute: EC2.
 
@@ -318,3 +318,22 @@ _Hands-on:_
 
 
 ******************
+
+**DAY 15 | 10/04/2020 | Friday**
+
+**Today&#39;s Progress:** Learning &amp; practicing AWS Compute: EC2.
+_Reading:_
+
+- Read about [differences in EBS , EFS , S3 and their use cases](https://www.missioncloud.com/blog/resource-amazon-ebs-vs-efs-vs-s3-picking-the-best-aws-storage-option-for-your-business).
+
+_Hands-on:_
+
+  - Used the OWASP Zed Attack Proxy (ZAP) to do a penetration test on a sample application.
+  - Used instance scheduler to shut down an EC2 instance.
+  - Methods of choosing the right size EC2 instance for cost optimization.
+  - Created a Windows EC2 instance and connected it through the remote desktop protocol(RDP).
+
+![](RackMultipart20200904-4-y2ymby_html_237499165a11f2b9.gif)
+
+
+**********************
