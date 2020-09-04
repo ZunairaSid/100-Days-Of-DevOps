@@ -36,25 +36,37 @@ I will dedicate at least 3 hours from my day for this challenge and will share m
 - [x] Manage data in S3 with versioning , CORS and Lifecycle Rules.<br>
 - [x] Secure S3 bucket policies using IAM policies.<br>
 - [x] Share S3 bucket across accounts.<br>
+- [x] Set up a S3 static website using AWS CLI.<br>
+- [x] Integrate KMS custom keys with S3 objects.<br>
+- [x] Analyze data in S3 with Amazon Athena.<br>
 - [x] Create an S3 bucket batch operation job.<br>
 - [x] Migrate BLOB data stored in a relational database table to S3.<br>
 - [x] Create an EC2 work station and give limited permission to a IAM user to use it.<br>
 - [ ] Build Fault Tolerance Website.
-- [ ] Create a custom AMI.
+- [x] Create a custom AMI.
 - [ ] Create a status website using EC2, S3 ,IAM roles and bash script.
-- [ ] Use AWS scheduler to shut down EC2 instances.<br>
+- [x] Deploy Tomcat application dynamically.</br>
+- [x] Use the OWASP Zed Attack Proxy (ZAP) to do a penetration test on a sample application.</br>
+- [x] Use the OWASP Zed Attack Proxy (ZAP) to do a penetration test on a sample application.</br>
+- [x] Use AWS scheduler to shut down EC2 instances.<br>
 - [x] Build a static website with a custom domain, using Route 53 Alias record sets and S3 bucket.<br>
 - [x] Build a website from two EC2 instances, and route traffic using an Application Load Balancer. Create and manage DNS records inside of Route 53.<br>
 - [ ] Troubleshoot elastic load balancer connectivity.
 - [x] Configured hybrid DNS using Route 53 inbound and outbound resolver endpoints.<br>
-- [x] Troubleshoot  network connectivity connectivity in 3-tier network.
+- [x] Troubleshoot  network connectivity connectivity in 3-tier network.<br>
+- [x] Troubleshoot EC2 network connectivity issues.<br>
+- [x] Validate connectivity for Amazon EC2 instance in a public and private subnet.<br>
 - [ ] Manage the deployment of EC2 instances in an Auto Scaling Group using Lifecycle Hooks.
 - [ ] Backup and restore from dynamoDB.
+- [x] Backup and restore data using AMIs and EBS.<br>
 - [ ] Use the Database Migrations Service (DMS) to migrate a database from an EC2 server to RDS.
 - [ ] Process DynamoDB stream using lambda.
+- [x] Set up an 2 EC2 instances with an autoscaling group and resized EBS volumes for performance.<br>
 - [ ] Migrate data from a Relational Database to DynamoDB.
 - [ ] Use Data Pipeline to copy DynamoDB data to an S3 bucket.
+- [ ] Choose the right size EC2 instance for cost optimization.<br>
 - [x] Create and configure a CloudTrail trail and a CloudWatch Logs & alarms ,in order to set up access email alerts for an S3 bucket write/read.<br>
+- [x] Created a Windows EC2 instance and connected it through the remote desktop protocol(RDP).<br>
 - [ ] Set AWS CloudWatch Logs and Incident Response using Elasticsearch ,Route 53 ,VPC Flow Logs,Elasticsearch Service and Kibana.
 - [x] Configure CloudWatch alarm with SNS and send email on EC2 shut down.<br>
 - [x] Config cloud watch dashboard to monitor resource utilization using custom widget and metrics.<br>
