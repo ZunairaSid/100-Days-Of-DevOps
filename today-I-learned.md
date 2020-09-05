@@ -337,3 +337,23 @@ _Hands-on:_
 
 
 **********************
+
+**DAY 16 | 10/05/2020 | Saturday**
+
+**Today&#39;s Progress:** Learning &amp; practicing AWS Database : RDS &amp; DynamoDb.
+
+_Reading:_
+
+- Read about the [Relational Database Service(RDS](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Welcome.html)) &amp; [Redshift](https://docs.aws.amazon.com/redshift/latest/dg/welcome.html) .
+- Read FAQs of [RDS](https://aws.amazon.com/rds/faqs/) &amp; [Redshift](https://aws.amazon.com/redshift/faqs/)
+
+_Hands-on:_
+
+  - Deploy RDS multi-AZ and Read Replica.
+  - Create a private RDS database with NAT gateway, security groups, and access it using EC2 as a bastion host and IAM role.
+  - Restored RDS instance using snapshot.
+
+![](RackMultipart20200905-4-33y0q8_html_237499165a11f2b9.gif)
+
+
+**************************
