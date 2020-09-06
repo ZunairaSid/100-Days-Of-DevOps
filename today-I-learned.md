@@ -328,7 +328,6 @@ _Reading:_
 
 _Hands-on:_
 
-  - Used the OWASP Zed Attack Proxy (ZAP) to do a penetration test on a sample application.
   - Used instance scheduler to shut down an EC2 instance.
   - Methods of choosing the right size EC2 instance for cost optimization.
   - Created a Windows EC2 instance and connected it through the remote desktop protocol(RDP).
@@ -357,3 +356,25 @@ _Hands-on:_
 
 
 **************************
+
+**DAY 17 | 10/06/2020 | Sunday**
+
+**Today&#39;s Progress:** Learning &amp; practicing AWS Database: DynamoDb.
+
+_Reading:_
+
+- Read about the [DynamoDb](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/Introduction.html).
+- Read FAQs of [DynamoDb](https://aws.amazon.com/dynamodb/faqs/).
+
+_Hands-on:_
+
+  - Played around with DynamoDb table( indexing, data loading,
+  - write operations, using partition and sort keys, auditing access, using local and global secondary indexes to query for items in the table and their impact on performance and capacity unit usage).
+  - Did on-demand and point-in-time recovery backups of dynamo DB.
+  - Provision a DynamoDB Accelerator (DAX) on existing DynamoDB solution.
+  - Read/ write to a DynamoDB table with the AWS Management Console, AWS CLI, and the Python Boto3 SDK.
+  - Managed data relationships in dynamo DB(one-to-one, one-to-many, many-to-many, hierarchical data)
+  - Implemented a simple application that accepts CSV files, converts them to DynamoDB-JSON, and puts the data into a table with the same name as the file.
+  - Utilized write sharding to optimize data ingestion in Dynamodb.
+
+![](RackMultipart20200906-4-iw97_html_237499165a11f2b9.gif)
