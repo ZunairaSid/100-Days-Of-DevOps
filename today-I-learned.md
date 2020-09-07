@@ -378,3 +378,28 @@ _Hands-on:_
   - Utilized write sharding to optimize data ingestion in Dynamodb.
 
 ![](RackMultipart20200906-4-iw97_html_237499165a11f2b9.gif)
+
+
+
+*******************************
+
+**DAY 18 | 10/07/2020 | Monday**
+
+**Today&#39;s Progress:** Learning &amp; practicing AWS Database: Aurora &amp; Elasticache.
+
+_Reading:_
+
+- Read about [Aurora](https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/CHAP_AuroraOverview.html) and [Elasticache](https://docs.aws.amazon.com/AmazonElastiCache/latest/red-ug/GettingStarted.html).
+- Read FAQs of[Aurora](https://aws.amazon.com/rds/aurora/faqs/) and [Elasticache](https://aws.amazon.com/elasticache/faqs/).
+
+_Hands-on:_
+
+  - Created an Aurora database cluster and a database parameter group, along with a Custom Endpoint.
+  - Used elasticache to improve DynamoDB performance.
+  - Create an Aurora MySQL database cluster in private subnets using security groups.
+  - Creating and Connecting to an Aurora Serverless Database via CLI.
+
+![](RackMultipart20200907-4-1bdbrbz_html_237499165a11f2b9.gif)
+
+
+*******************
