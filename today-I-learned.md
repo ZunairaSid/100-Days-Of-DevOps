@@ -403,3 +403,23 @@ _Hands-on:_
 
 
 *******************
+
+**DAY 19 | 10/08/2020 | Tuesday**
+
+**Today&#39;s Progress:** Learning &amp; practicing AWS HA Architecture: Load Balancer, Health check &amp;: AWS Autoscaling.
+
+_Reading:_
+
+- Read about the [Load Balancer](https://docs.aws.amazon.com/elasticloadbalancing/latest/userguide/what-is-load-balancing.html), [Health Check](https://docs.aws.amazon.com/autoscaling/ec2/userguide/healthcheck.html),[Autoscaling](https://docs.aws.amazon.com/autoscaling/ec2/userguide/what-is-amazon-ec2-auto-scaling.html) &amp; l[aunch configuration](https://docs.aws.amazon.com/autoscaling/ec2/userguide/LaunchConfiguration.html).
+- Read FAQs of [Load Balancer](https://aws.amazon.com/elasticloadbalancing/faqs/), and [Autoscaling](https://aws.amazon.com/ec2/autoscaling/faqs/).
+
+_Hands-on:_
+
+  - Ways of troubleshooting Elastic Load Balancer Connectivity Issues.
+  - Set up an Application load balancer with an auto-scaling group, launch configuration, and route 53.
+  - Deployed highly available web applications along with a highly available bastion host architecture using the RDS database from a snapshot, Security groups, Launch configurations, Auto Scaling groups, and Application Load Balancer.
+
+![](RackMultipart20200908-4-1d14jcs_html_237499165a11f2b9.gif)
+
+
+********************
