@@ -423,3 +423,18 @@ _Hands-on:_
 
 
 ********************
+
+**DAY 20 | 10/09/2020 | Wednesday**
+
+**Today&#39;s Progress:** Learning AWS Compute: _Serverless application model &amp; Lambda_.
+
+_Reading:_
+
+- Read about [the Serverless application model(SAM)](https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/sam-specification.html) and Lambda.
+- Read FAQs of [the Lamba](https://aws.amazon.com/lambda/faqs/) and [Serverless application model(SAM)](https://aws.amazon.com/serverless/sam/faqs/#:~:text=The%20AWS%20Serverless%20Application%20Model%20(AWS%20SAM)%20is%20an%20open,and%20model%20it%20using%20YAML.).
+- Read[a comparison](https://www.stratoscale.com/blog/dbaas/aurora-vs-rds/) of RDS MySQL and Aurora and their [use cases](https://www.percona.com/blog/2018/07/17/when-should-i-use-amazon-aurora-and-when-should-i-use-rds-mysql/).
+
+![](RackMultipart20200909-4-1phiuvs_html_237499165a11f2b9.gif)
+
+
+******************
