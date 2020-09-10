@@ -21,6 +21,8 @@ _Whitepaper_</br>
 _Important Links_</br>
 
 ![](RackMultipart20200820-4-buben2_html_237499165a11f2b9.gif)
+
+
 ************
 
 **DAY 00 | 09/20/2020 | Thursday**
@@ -161,7 +163,7 @@ _Hands-on:_
 *******************
 **DAY 07 | 09/27/2020 | Thursday**
 
-**Today&#39;s Progress:** Learning &amp; practicing AWS Networking &amp; Content Delivery:
+**Today&#39;s Progress:** Practicing AWS Networking &amp; Content Delivery:
 
 _Hands-on:_
 
@@ -175,7 +177,7 @@ _Hands-on:_
 
 **DAY 08 | 09/28/2020 | Friday**
 
-**Today&#39;s Progress:** Learning &amp; practicing AWS Networking &amp; Content Delivery:
+**Today&#39;s Progress:** Practicing AWS Networking &amp; Content Delivery:
 
 _Reading:_
 
@@ -192,7 +194,7 @@ _Hands-on:_
 
 **DAY 09 | 09/29/2020 | Saturday**
 
-**Today&#39;s Progress:** Learning &amp; practicing AWS Networking &amp; Content Delivery: Route53.
+**Today&#39;s Progress:** Learning &amp; practicing AWS Networking &amp; Content Delivery: _Route53._
 
 _Reading:_
 
@@ -219,7 +221,7 @@ Important Links:
 
 **DAY 10 | 09/30/2020 | Sunday**
 
-**Today&#39;s Progress:** Learning &amp; practicing AWS Networking &amp; Content Delivery: CloudFront.
+**Today&#39;s Progress:** Learning &amp; practicing AWS Networking &amp; Content Delivery: _CloudFront._
 _Reading:_
 
 - Read about [CloudFront](https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/Introduction.html).
@@ -236,7 +238,7 @@ _Hands-on:_
 
 **DAY 11 | 09/31/2020 | Monday**
 
-**Today&#39;s Progress:** Learning &amp; practicing AWS Storage: S3 ,S3 glacier.
+**Today&#39;s Progress:** Learning &amp; practicing AWS Storage: _S3 ,S3 glacier._
 
 _Reading:_
 
@@ -260,7 +262,7 @@ _Hands-on:_
 
 **DAY 12 | 10/1/2020 | Tuesday**
 
-**Today&#39;s Progress:** Learning &amp; practicing AWS Storage: EFS.
+**Today&#39;s Progress:** Learning &amp; practicing AWS Storage: _EFS._
 
 _Reading:_
 
@@ -285,7 +287,7 @@ _Hands-on:_
 
 **DAY 13 | 10/2/2020 | Wednesday**
 
-**Today&#39;s Progress:** Learning &amp; practicing AWS Storage: EFS.
+**Today&#39;s Progress:** Learning &amp; practicing AWS Storage: _EFS._
 
 _Reading:_
 
@@ -305,7 +307,7 @@ _Hands-on:_
 
 **DAY 14 | 10/03/2020 | Thursday**
 
-**Today&#39;s Progress:** Learning &amp; practicing AWS Compute: EC2.
+**Today&#39;s Progress:** Learning &amp; practicing AWS Compute: _EC2._
 
 _Hands-on:_
 
@@ -321,7 +323,7 @@ _Hands-on:_
 
 **DAY 15 | 10/04/2020 | Friday**
 
-**Today&#39;s Progress:** Learning &amp; practicing AWS Compute: EC2.
+**Today&#39;s Progress:** Learning &amp; practicing AWS Compute: _EC2._
 _Reading:_
 
 - Read about [differences in EBS , EFS , S3 and their use cases](https://www.missioncloud.com/blog/resource-amazon-ebs-vs-efs-vs-s3-picking-the-best-aws-storage-option-for-your-business).
@@ -339,7 +341,7 @@ _Hands-on:_
 
 **DAY 16 | 10/05/2020 | Saturday**
 
-**Today&#39;s Progress:** Learning &amp; practicing AWS Database : RDS &amp; DynamoDb.
+**Today&#39;s Progress:** Learning &amp; practicing AWS Database : _RDS &amp; DynamoDb._
 
 _Reading:_
 
@@ -359,7 +361,7 @@ _Hands-on:_
 
 **DAY 17 | 10/06/2020 | Sunday**
 
-**Today&#39;s Progress:** Learning &amp; practicing AWS Database: DynamoDb.
+**Today&#39;s Progress:** Learning &amp; practicing AWS Database: _DynamoDb._
 
 _Reading:_
 
@@ -385,7 +387,7 @@ _Hands-on:_
 
 **DAY 18 | 10/07/2020 | Monday**
 
-**Today&#39;s Progress:** Learning &amp; practicing AWS Database: Aurora &amp; Elasticache.
+**Today&#39;s Progress:** Learning &amp; practicing AWS Database: _Aurora &amp; Elasticache._
 
 _Reading:_
 
@@ -406,7 +408,7 @@ _Hands-on:_
 
 **DAY 19 | 10/08/2020 | Tuesday**
 
-**Today&#39;s Progress:** Learning &amp; practicing AWS HA Architecture: Load Balancer, Health check &amp;: AWS Autoscaling.
+**Today&#39;s Progress:** Learning &amp; practicing AWS HA Architecture: _Load Balancer, Health check &amp;: AWS Autoscaling._
 
 _Reading:_
 
@@ -432,9 +434,20 @@ _Reading:_
 
 - Read about [the Serverless application model(SAM)](https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/sam-specification.html) and Lambda.
 - Read FAQs of [the Lamba](https://aws.amazon.com/lambda/faqs/) and [Serverless application model(SAM)](https://aws.amazon.com/serverless/sam/faqs/#:~:text=The%20AWS%20Serverless%20Application%20Model%20(AWS%20SAM)%20is%20an%20open,and%20model%20it%20using%20YAML.).
-- Read[a comparison](https://www.stratoscale.com/blog/dbaas/aurora-vs-rds/) of RDS MySQL and Aurora and their [use cases](https://www.percona.com/blog/2018/07/17/when-should-i-use-amazon-aurora-and-when-should-i-use-rds-mysql/).
+- Read [a comparison](https://www.stratoscale.com/blog/dbaas/aurora-vs-rds/) of RDS MySQL and Aurora and their [use cases](https://www.percona.com/blog/2018/07/17/when-should-i-use-amazon-aurora-and-when-should-i-use-rds-mysql/).
 
 ![](RackMultipart20200909-4-1phiuvs_html_237499165a11f2b9.gif)
 
 
 ******************
+
+**DAY 21 | 10/10/2020 | Thursday**
+
+**Today&#39;s Progress:** Practicing AWS Compute: _Lambda_.
+
+_Hands-on:_
+
+  - Created simple lambda function (Lambda Console Function, Code Execution, Roles, Test, Events, Execution, Results )
+  - Created an EC2 with lambda &amp; shut it down using basic lambda function.
+
+![](RackMultipart20200910-4-y4p38i_html_237499165a11f2b9.gif)
