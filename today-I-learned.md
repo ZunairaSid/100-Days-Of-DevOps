@@ -115,7 +115,7 @@ _Readings:_
 
 _Hands-on:_
 
-- Played around with roles &amp; policies assigning, users &amp; groups management, created inline, managed &amp; custom policy, assign API access key, password policies,
+- Played around with roles &amp; policies assigning, users &amp; groups management. Created inline, managed &amp; custom policies.Assigned API access key, password policies to user.
 - Created a new user with limited permissions to AWS resources.
 - Created Cloud Formation template from existing resources using cloud former.
 
@@ -154,8 +154,8 @@ _Reading:_
 _Hands-on:_
 
   - Built 3-tier network VPC from scratch. Built and connected VPC, multiple availability zones subnets, Internet Gateway, Route Tables, Nat gateway, &amp; Access Control List.
-  - Created and connected VPC endpoint and S3 bucket.
-  - Used Security groups and Network AccessControl lists to secure the different layers of a multi-tier to secure network.
+  - Created and connected VPC endpoint to S3 bucket.
+  - Used Security groups and Network AccessControl lists to secure the different layers of a multi-tier network.
 
 ![](RackMultipart20200826-4-1ogakie_html_237499165a11f2b9.gif)
 
@@ -168,7 +168,7 @@ _Hands-on:_
 _Hands-on:_
 
   - Troubleshooted network connectivity.
-  - Monitored VPC using a VPC flow log.
+  - Monitored VPC using a VPC flow log and cloud watch.
   - Deployed website canary with cloud formation.
 
 
@@ -198,15 +198,15 @@ _Hands-on:_
 
 _Reading:_
 
-- Read [Route 53](https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/getting-started.html) and[DNS](https://docs.aws.amazon.com/vpc/latest/userguide/vpc-dns.html) user guide.
+- Read [Route 53](https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/getting-started.html) and [DNS](https://docs.aws.amazon.com/vpc/latest/userguide/vpc-dns.html) user guide.
 - Read FAQs of [Route 53](https://aws.amazon.com/route53/faqs/).
 
 _Hands-on:_
 
-  - Registered DNS, Route53 routing policies.
+  - Registered DNS and Route53 routing policies.
   - Assigned FQDN (fully qualified domain name) to EC2 instance using route53.
   - Hosted static website with custom domain on AWS S3.
-  - Managed DNS records with route53 for a highly available web server.
+  - Managed DNS records with route53 for a highly available EC2 web server.
   - Configured hybrid DNS using Route 53 inbound and outbound resolver endpoints.
 
 Important Links:
@@ -222,6 +222,7 @@ Important Links:
 **DAY 10 | 09/30/2020 | Sunday**
 
 **Today&#39;s Progress:** Learning &amp; practicing AWS Networking &amp; Content Delivery: _CloudFront._
+
 _Reading:_
 
 - Read about [CloudFront](https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/Introduction.html).
@@ -238,7 +239,7 @@ _Hands-on:_
 
 **DAY 11 | 09/31/2020 | Monday**
 
-**Today&#39;s Progress:** Learning &amp; practicing AWS Storage: _S3 ,S3 glacier._
+**Today&#39;s Progress:** Learning &amp; practicing AWS Storage: _S3 & S3 glacier._
 
 _Reading:_
 
@@ -324,6 +325,7 @@ _Hands-on:_
 **DAY 15 | 10/04/2020 | Friday**
 
 **Today&#39;s Progress:** Learning &amp; practicing AWS Compute: _EC2._
+
 _Reading:_
 
 - Read about [differences in EBS , EFS , S3 and their use cases](https://www.missioncloud.com/blog/resource-amazon-ebs-vs-efs-vs-s3-picking-the-best-aws-storage-option-for-your-business).
@@ -341,7 +343,7 @@ _Hands-on:_
 
 **DAY 16 | 10/05/2020 | Saturday**
 
-**Today&#39;s Progress:** Learning &amp; practicing AWS Database : _RDS &amp; DynamoDb._
+**Today&#39;s Progress:** Learning &amp; practicing AWS Database : _RDS &amp; Redshift._
 
 _Reading:_
 
@@ -350,8 +352,8 @@ _Reading:_
 
 _Hands-on:_
 
-  - Deploy RDS multi-AZ and Read Replica.
-  - Create a private RDS database with NAT gateway, security groups, and access it using EC2 as a bastion host and IAM role.
+  - Deployed RDS multi-AZ and Read Replica.
+  - Created a private RDS database with NAT gateway, security groups, and accessed it using EC2 bastion host and IAM roles.
   - Restored RDS instance using snapshot.
 
 ![](RackMultipart20200905-4-33y0q8_html_237499165a11f2b9.gif)
@@ -370,8 +372,7 @@ _Reading:_
 
 _Hands-on:_
 
-  - Played around with DynamoDb table( indexing, data loading,
-  - write operations, using partition and sort keys, auditing access, using local and global secondary indexes to query for items in the table and their impact on performance and capacity unit usage).
+  - Played around with DynamoDb table( indexing, data loading,write operations, using partition and sort keys, auditing access, using local and global secondary indexes to query for items in the table and their impact on performance and capacity unit usage).
   - Did on-demand and point-in-time recovery backups of dynamo DB.
   - Provision a DynamoDB Accelerator (DAX) on existing DynamoDB solution.
   - Read/ write to a DynamoDB table with the AWS Management Console, AWS CLI, and the Python Boto3 SDK.
@@ -392,7 +393,7 @@ _Hands-on:_
 _Reading:_
 
 - Read about [Aurora](https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/CHAP_AuroraOverview.html) and [Elasticache](https://docs.aws.amazon.com/AmazonElastiCache/latest/red-ug/GettingStarted.html).
-- Read FAQs of[Aurora](https://aws.amazon.com/rds/aurora/faqs/) and [Elasticache](https://aws.amazon.com/elasticache/faqs/).
+- Read FAQs of [Aurora](https://aws.amazon.com/rds/aurora/faqs/) and [Elasticache](https://aws.amazon.com/elasticache/faqs/).
 
 _Hands-on:_
 
@@ -417,7 +418,7 @@ _Reading:_
 
 _Hands-on:_
 
-  - Ways of troubleshooting Elastic Load Balancer Connectivity Issues.
+  - Ways of troubleshooting Elastic Load Balancer connectivity issues.
   - Set up an Application load balancer with an auto-scaling group, launch configuration, and route 53.
   - Deployed highly available web applications along with a highly available bastion host architecture using the RDS database from a snapshot, Security groups, Launch configurations, Auto Scaling groups, and Application Load Balancer.
 
@@ -451,3 +452,19 @@ _Hands-on:_
   - Created an EC2 with lambda &amp; shut it down using basic lambda function.
 
 ![](RackMultipart20200910-4-y4p38i_html_237499165a11f2b9.gif)
+
+
+********************
+
+**DAY 22 | 10/11/2020 | Friday**
+
+**Today&#39;s Progress:** Took the following quizzes on [AcloudGuru](http://acloudguru.com/).
+
+_Quizzes:_
+
+  - EC2 , IAM ,S3 ,Database ,Route53 ,VPC ,HA architecture , KMS and Encryption , Monitoring.
+
+![](RackMultipart20200911-4-1vjb1ai_html_237499165a11f2b9.gif)
+
+
+********************
