@@ -26,6 +26,7 @@ I will dedicate at least 3 hours from my day for this challenge and will share m
 
 - [x] Set up a cost budget and billing alarm.<br>
 - [x] Configure CloudWatch alarm when EC2 CPU utilization exceeds the defined limit.<br>
+- [x] Use elasticache to improve DynamoDB performance.<br>
 - [x] Build a 3-tier network from scratch using VPC,subnets, NACL,Internet gateway ,NAT gateway and route tables. <br>
 - [ ] Create an IAM Role and configure an EC2 Instance for AWS Systems Manager.<br>
 - [x] Set up CloudFront as HTTPS endpoint for S3.<br>
@@ -51,18 +52,28 @@ I will dedicate at least 3 hours from my day for this challenge and will share m
 - [x] Use AWS scheduler to shut down EC2 instances.<br>
 - [x] Build a static website with a custom domain, using Route 53 Alias record sets and S3 bucket.<br>
 - [x] Build a website from two EC2 instances, and route traffic using an Application Load Balancer. Create and manage DNS records inside of Route 53.<br>
-- [ ] Troubleshoot elastic load balancer connectivity.
+- [x] Troubleshoot elastic load balancer connectivity.<br>
 - [x] Configured hybrid DNS using Route 53 inbound and outbound resolver endpoints.<br>
 - [x] Troubleshoot  network connectivity connectivity in 3-tier network.<br>
 - [x] Troubleshoot EC2 network connectivity issues.<br>
 - [x] Validate connectivity for Amazon EC2 instance in a public and private subnet.<br>
 - [ ] Manage the deployment of EC2 instances in an Auto Scaling Group using Lifecycle Hooks.
-- [ ] Backup and restore from dynamoDB.
+- [x] Backup on-demand and point-in-time recovery of dynamoDB.<br>
+- [x] Provision a DynamoDB Accelerator (DAX) on existing DynamoDB solution.<br>
+- [x] Read/ write to a DynamoDB table using the AWS Management Console, AWS CLI, and the Python Boto3 SDK.<br>
+- [x] Managed data relationships in dynamo DB(one-to-one, one-to-many, many-to-many, hierarchical data).<br>
 - [x] Backup and restore data using AMIs and EBS.<br>
+- [x] Implemented a simple application that accepts CSV files, converts them to DynamoDB-JSON, and puts the data into a table with the same name as the file.<br>
+- [x] Deploy highly available web applications along with a highly available bastion host using the RDS database from a snapshot, Security groups, Launch configurations, Auto Scaling groups, and Application Load Balancer.<br>
 - [ ] Use the Database Migrations Service (DMS) to migrate a database from an EC2 server to RDS.
 - [ ] Process DynamoDB stream using lambda.
+- [x] Deployed RDS multi-AZ and Read Replica.<br>
 - [x] Set up an 2 EC2 instances with an autoscaling group and resized EBS volumes for performance.<br>
+- [x] Create a private RDS database and accesse it using EC2 bastion host.<br>
+- [x] Restored RDS instance using snapshot.<br>
 - [ ] Migrate data from a Relational Database to DynamoDB.
+- [x] Provision a DynamoDB Accelerator (DAX) on existing DynamoDB solution.<br>
+- [x] Utilized write sharding to optimize data ingestion in Dynamodb.<br>
 - [ ] Use Data Pipeline to copy DynamoDB data to an S3 bucket.
 - [ ] Choose the right size EC2 instance for cost optimization.<br>
 - [x] Create and configure a CloudTrail trail and a CloudWatch Logs & alarms ,in order to set up access email alerts for an S3 bucket write/read.<br>
@@ -76,6 +87,9 @@ I will dedicate at least 3 hours from my day for this challenge and will share m
 - [ ] Create a reminder serverless application using a static website , hosted on S3 , using AWS Step Functions, API Gateway, AWS Lambda.
 - [ ] Trigger a Lambda function using SQS and dynamoDB.
 - [x] See logs using cloudwatch &amp; create billing alarms. <br>
+- [x] Create an Aurora database cluster and a database parameter group, along with a custom endpoint. <br>
+- [x] Create an Aurora MySQL database cluster in private subnet. <br>
+- [x] Create and Connect to an Aurora Serverless Database via CLI. <br>
 - [x] Deploy a website canary using cloudformation. <br>
 - [x] Deploy a basic infrastructure using CloudFormation Templates.<br>
 - [x] Update cloud formation stacks with direct updates and changesets.<br>
