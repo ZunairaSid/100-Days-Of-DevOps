@@ -468,3 +468,15 @@ _Quizzes:_
 
 
 ********************
+
+**DAY 22 | 10/11/2020 | Friday**
+
+**Today&#39;s Progress:** Took  AWS certified solution architect associate practice exam on [AcloudGuru](http://acloudguru.com/).
+
+
+
+![](RackMultipart20200911-4-1vjb1ai_html_237499165a11f2b9.gif)
+
+******************
+
+
