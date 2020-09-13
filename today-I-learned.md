@@ -25,7 +25,7 @@ _Important Links_</br>
 
 ************
 
-**DAY 00 | 09/20/2020 | Thursday**
+**DAY 00 | 08/20/2020 | Thursday**
 
 **Today&#39;s Progress:** Setting up everything.
 
@@ -36,7 +36,7 @@ _Important Links_</br>
 
 
 ************
-**DAY 01 | 09/21/2020 | Friday**
+**DAY 01 | 08/21/2020 | Friday**
 
 **Today&#39;s Progress:** Learning &amp; practicing AWS Management &amp; Governances: _Cost &amp; Billing management, Cloud Trail, and Cloud Watch._
 
@@ -59,7 +59,7 @@ Important links: [Metrics filer](https://amzn.to/3j3WXUj) , [Cloudtrail-policy-f
 
 
 ************
-**DAY 02 | 09/22/2020 | Saturday**
+**DAY 02 | 08/22/2020 | Saturday**
 
 **Today&#39;s Progress:** Learning &amp; practicing AWS Management &amp; Governances: _Cloud Formation._
 
@@ -81,7 +81,7 @@ _Important links:_ [Templates snippets](https://docs.aws.amazon.com/AWSCloudForm
 
 ************
 
-**DAY 03 | 09/23/2020 | Sunday**
+**DAY 03 | 08/23/2020 | Sunday**
 
 **Today&#39;s Progress:** Practicing AWS Management &amp; Governances: _Cloud Formation._
 
@@ -105,7 +105,7 @@ _Important links:_ [Sample templates](https://github.com/JulieElkinsAWS/CFtempla
 
 ************
 
-**DAY 04 | 09/24/2020 | Monday**
+**DAY 04 | 08/24/2020 | Monday**
 
 **Today&#39;s Progress:** Learning &amp; practicing AWS Security, Identity, &amp; Compliance services: _IAM, Cognito, Amazon Inspector, Amazon Macie, WAF_
 
@@ -141,7 +141,7 @@ _Hands-on:_
 
 ************
 
-**DAY 06 | 09/26/2020 | Wednesday**
+**DAY 06 | 08/26/2020 | Wednesday**
 
 **Today&#39;s Progress:** Learning &amp; practicing AWS Networking &amp; Content Delivery: _VPC, Direct Connect, Global Accelerator, API gateway._
 
@@ -161,7 +161,7 @@ _Hands-on:_
 
 
 *******************
-**DAY 07 | 09/27/2020 | Thursday**
+**DAY 07 | 08/27/2020 | Thursday**
 
 **Today&#39;s Progress:** Practicing AWS Networking &amp; Content Delivery:
 
@@ -175,7 +175,7 @@ _Hands-on:_
 
 *******************
 
-**DAY 08 | 09/28/2020 | Friday**
+**DAY 08 | 08/28/2020 | Friday**
 
 **Today&#39;s Progress:** Practicing AWS Networking &amp; Content Delivery:
 
@@ -192,7 +192,7 @@ _Hands-on:_
 
 *************************
 
-**DAY 09 | 09/29/2020 | Saturday**
+**DAY 09 | 08/29/2020 | Saturday**
 
 **Today&#39;s Progress:** Learning &amp; practicing AWS Networking &amp; Content Delivery: _Route53._
 
@@ -219,7 +219,7 @@ Important Links:
 
 *************************
 
-**DAY 10 | 09/30/2020 | Sunday**
+**DAY 10 | 08/30/2020 | Sunday**
 
 **Today&#39;s Progress:** Learning &amp; practicing AWS Networking &amp; Content Delivery: _CloudFront._
 
@@ -237,7 +237,7 @@ _Hands-on:_
 
 ****************
 
-**DAY 11 | 09/31/2020 | Monday**
+**DAY 11 | 08/31/2020 | Monday**
 
 **Today&#39;s Progress:** Learning &amp; practicing AWS Storage: _S3 & S3 glacier._
 
@@ -261,7 +261,7 @@ _Hands-on:_
 
 **************************
 
-**DAY 12 | 10/1/2020 | Tuesday**
+**DAY 12 | 09/1/2020 | Tuesday**
 
 **Today&#39;s Progress:** Learning &amp; practicing AWS Storage: _EFS._
 
@@ -286,7 +286,7 @@ _Hands-on:_
 
 ![](RackMultipart20200902-4-1bs1qed_html_237499165a11f2b9.gif)
 
-**DAY 13 | 10/2/2020 | Wednesday**
+**DAY 13 | 09/2/2020 | Wednesday**
 
 **Today&#39;s Progress:** Learning &amp; practicing AWS Storage: _EFS._
 
@@ -306,7 +306,7 @@ _Hands-on:_
 
 **********************
 
-**DAY 14 | 10/03/2020 | Thursday**
+**DAY 14 | 09/03/2020 | Thursday**
 
 **Today&#39;s Progress:** Learning &amp; practicing AWS Compute: _EC2._
 
@@ -322,7 +322,7 @@ _Hands-on:_
 
 ******************
 
-**DAY 15 | 10/04/2020 | Friday**
+**DAY 15 | 09/04/2020 | Friday**
 
 **Today&#39;s Progress:** Learning &amp; practicing AWS Compute: _EC2._
 
@@ -341,7 +341,7 @@ _Hands-on:_
 
 **********************
 
-**DAY 16 | 10/05/2020 | Saturday**
+**DAY 16 | 09/05/2020 | Saturday**
 
 **Today&#39;s Progress:** Learning &amp; practicing AWS Database : _RDS &amp; Redshift._
 
@@ -361,7 +361,7 @@ _Hands-on:_
 
 **************************
 
-**DAY 17 | 10/06/2020 | Sunday**
+**DAY 17 | 09/06/2020 | Sunday**
 
 **Today&#39;s Progress:** Learning &amp; practicing AWS Database: _DynamoDb._
 
@@ -386,7 +386,7 @@ _Hands-on:_
 
 *******************************
 
-**DAY 18 | 10/07/2020 | Monday**
+**DAY 18 | 09/07/2020 | Monday**
 
 **Today&#39;s Progress:** Learning &amp; practicing AWS Database: _Aurora &amp; Elasticache._
 
@@ -407,7 +407,7 @@ _Hands-on:_
 
 *******************
 
-**DAY 19 | 10/08/2020 | Tuesday**
+**DAY 19 | 09/08/2020 | Tuesday**
 
 **Today&#39;s Progress:** Learning &amp; practicing AWS HA Architecture: _Load Balancer, Health check &amp;: AWS Autoscaling._
 
@@ -427,7 +427,7 @@ _Hands-on:_
 
 ********************
 
-**DAY 20 | 10/09/2020 | Wednesday**
+**DAY 20 | 09/09/2020 | Wednesday**
 
 **Today&#39;s Progress:** Learning AWS Compute: _Serverless application model &amp; Lambda_.
 
@@ -442,7 +442,7 @@ _Reading:_
 
 ******************
 
-**DAY 21 | 10/10/2020 | Thursday**
+**DAY 21 | 09/10/2020 | Thursday**
 
 **Today&#39;s Progress:** Practicing AWS Compute: _Lambda_.
 
@@ -456,7 +456,7 @@ _Hands-on:_
 
 ********************
 
-**DAY 22 | 10/11/2020 | Friday**
+**DAY 22 | 09/11/2020 | Friday**
 
 **Today&#39;s Progress:** Took the following quizzes on [AcloudGuru](http://acloudguru.com/).
 
@@ -469,7 +469,7 @@ _Quizzes:_
 
 ********************
 
-**DAY 22 | 10/11/2020 | Friday**
+**DAY 23 | 09/12/2020 | Saturday**
 
 **Today&#39;s Progress:** Took  AWS certified solution architect associate practice exam on [AcloudGuru](http://acloudguru.com/).
 
@@ -479,4 +479,16 @@ _Quizzes:_
 
 ******************
 
+
+**DAY 24 | 09/13/2020 | Sunday**
+
+**Today&#39;s Progress:** Took  S3 master class course on [AcloudGuru](http://acloudguru.com/).
+
+
+
+![](RackMultipart20200911-4-1vjb1ai_html_237499165a11f2b9.gif)
+
+
+
+******************
 
