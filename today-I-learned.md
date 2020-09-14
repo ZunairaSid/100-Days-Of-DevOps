@@ -482,7 +482,19 @@ _Quizzes:_
 
 **DAY 24 | 09/13/2020 | Sunday**
 
-**Today&#39;s Progress:** Took  S3 master class course on [AcloudGuru](http://acloudguru.com/).
+**Today&#39;s Progress:** Took  S3 master class  on [AcloudGuru](http://acloudguru.com/) (1/2).
+
+
+
+![](RackMultipart20200911-4-1vjb1ai_html_237499165a11f2b9.gif)
+
+
+
+******************
+
+**DAY 25 | 09/14/2020 | Monday**
+
+**Today&#39;s Progress:** Completed  S3 master class  on [AcloudGuru](http://acloudguru.com/) .
 
 
 
