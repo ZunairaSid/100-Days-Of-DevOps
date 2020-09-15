@@ -504,3 +504,22 @@ _Quizzes:_
 
 ******************
 
+**DAY 26 | 09/15/2020 | Tuesday**
+
+**Today&#39;s Progress:** Reading and Practicing AWS Database Migration Service(DMS), DataSync, Service Caching strategies on AWS
+
+_Reading:_
+
+- Read about Database Migration Service(DMS) and Service Caching strategies on AWS
+- Read FAQs of [Database Migration Service(DMS)](https://aws.amazon.com/dms/faqs/)
+
+_Hands-on:_
+
+  - Used DMS to migrate a database from an EC2 server to RDS for cost optimization.
+  - Used AWS DMS to migrate data to an aurora database.
+  - Migrated a normalized relational database to an Amazon DynamoDB table.
+
+![](RackMultipart20200915-4-vugtmz_html_237499165a11f2b9.gif)
+
+
+***********************
