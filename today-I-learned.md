@@ -506,7 +506,7 @@ _Quizzes:_
 
 **DAY 26 | 09/15/2020 | Tuesday**
 
-**Today&#39;s Progress:** Reading and Practicing AWS Database Migration Service(DMS), DataSync, Service Caching strategies on AWS
+**Today&#39;s Progress:** Reading and Practicing AWS Database Migration Service(DMS) & Service Caching strategies on AWS
 
 _Reading:_
 
@@ -526,16 +526,16 @@ _Hands-on:_
 
 **DAY 27 | 10/11/2020 | Wednesday**
 
-**Today&#39;s Progress:** Learning &amp; practicing AWS Application: Simple Workflow Service(SWS)
+**Today&#39;s Progress:** Learning &amp; practicing AWS Application:Simple Notification Service(SNS)
 
 _Reading:_
 
-- Read the Simple Notification Service(SWS) user guide.
+- Read the Simple Notification Service(SNS) user guide.
 - Read FAQs of [Simple Notification Service(SWS](https://aws.amazon.com/ko/sns/faqs/)).
 
 _Hands-on:_
 
-  - Configure an S3 bucket to trigger AWS Simple Notification Service notifications whenever an object is added to an S3 bucket
+  - Configure an S3 bucket to trigger AWS Simple Notification Service notifications whenever an object is added to an S3 bucket.
 
 ![](RackMultipart20200916-4-1et6uus_html_237499165a11f2b9.gif)
 
