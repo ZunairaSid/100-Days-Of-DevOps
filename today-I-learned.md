@@ -524,7 +524,7 @@ _Hands-on:_
 
 ***********************
 
-**DAY 27 | 10/11/2020 | Wednesday**
+**DAY 27 | 09/16/2020 | Wednesday**
 
 **Today&#39;s Progress:** Learning &amp; practicing AWS Application:Simple Notification Service(SNS)
 
@@ -541,3 +541,19 @@ _Hands-on:_
 
 
 *****************
+
+**DAY 28 | 09/17/2020 | Thursday**
+
+**Today&#39;s Progress:** Learning &amp; practicing AWS Application: Simple Workflow Service(SWS).
+
+_Reading:_
+
+- Read FAQs of [Simple Workflow Service(SWS)](https://aws.amazon.com/swf/faqs/).
+
+_Hands-on:_
+
+  - Created and subscribed to SNS topics using multiple endpoints (SMS, EMAIL &amp; LAMBDA).
+
+![](RackMultipart20200917-4-1mf215a_html_237499165a11f2b9.gif)
+
+***********
