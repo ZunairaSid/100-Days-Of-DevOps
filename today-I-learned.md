@@ -506,7 +506,7 @@ _Quizzes:_
 
 **DAY 26 | 09/15/2020 | Tuesday**
 
-**Today&#39;s Progress:** Reading and Practicing AWS Database Migration Service(DMS) & Service Caching strategies on AWS
+**Today&#39;s Progress:** Reading and Practicing _AWS Database Migration Service(DMS) & Service Caching strategies on AWS_
 
 _Reading:_
 
@@ -526,7 +526,7 @@ _Hands-on:_
 
 **DAY 27 | 09/16/2020 | Wednesday**
 
-**Today&#39;s Progress:** Learning &amp; practicing AWS Application:Simple Notification Service(SNS)
+**Today&#39;s Progress:** Learning &amp; practicing AWS Application: _Simple Notification Service(SNS)_
 
 _Reading:_
 
@@ -544,7 +544,7 @@ _Hands-on:_
 
 **DAY 28 | 09/17/2020 | Thursday**
 
-**Today&#39;s Progress:** Learning &amp; practicing AWS Application: Simple Workflow Service(SWS).
+**Today&#39;s Progress:** Learning &amp; practicing AWS Application: _Simple Workflow Service(SWS)._
 
 _Reading:_
 
@@ -555,5 +555,25 @@ _Hands-on:_
   - Created and subscribed to SNS topics using multiple endpoints (SMS, EMAIL &amp; LAMBDA).
 
 ![](RackMultipart20200917-4-1mf215a_html_237499165a11f2b9.gif)
+
+***********
+
+**DAY 29 | 09/18/2020 | Friday**
+
+**Today&#39;s Progress:** Learning &amp; practicing AWS Application: _Simple Queue Service(SQS)._
+
+_Reading:_
+
+- Read about the [Simple Queue Service(SQS)](https://docs.aws.amazon.com/AWSSimpleQueueService/latest/SQSDeveloperGuide/welcome.html).
+- Read FAQs of [Simple Queue Service(SQS)](https://aws.amazon.com/sqs/faqs/).
+
+_Hands-on:_
+
+  - Creating and subscribing to AWS SQS topics.
+  - Create and interact with first-in-first-out (FIFO) SQS queues.
+  - Working with SQS standard queue, send messages to the queue, used multiple consumers to process queue data, set queue attributes, and consume messages.
+
+![](RackMultipart20200918-4-1epyjh9_html_237499165a11f2b9.gif)
+
 
 ***********
