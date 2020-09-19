@@ -577,3 +577,12 @@ _Hands-on:_
 
 
 ***********
+
+**DAY 30 | 09/19/2020 | Saturday**
+
+**Today&#39;s Progress:** Took overview of AWS services: AWS Shield, System manager parameter store , AWS WAF ,AWs Datasync , Snowball , Storage gateway , Spot instance and spot fleets , global accelerator , private links , Cloud HSM ,VPN cloudhub
+
+![](RackMultipart20200919-4-o83kxg_html_237499165a11f2b9.gif)
+
+
+************
