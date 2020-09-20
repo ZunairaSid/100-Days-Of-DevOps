@@ -586,3 +586,14 @@ _Hands-on:_
 
 
 ************
+
+**DAY 31 | 09/20/2020 | Sunday**
+
+**Today&#39;s Progress:** Practicing AWS Application: Step Functions
+
+_Hands-on:_
+
+  - Used AWS Step Functions to Manage a Long-Running Process.
+  - Performed Parallel Execution in AWS Step Functions.
+
+![](RackMultipart20200920-4-slk4ou_html_237499165a11f2b9.gif)
