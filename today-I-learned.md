@@ -597,3 +597,18 @@ _Hands-on:_
   - Performed Parallel Execution in AWS Step Functions.
 
 ![](RackMultipart20200920-4-slk4ou_html_237499165a11f2b9.gif)
+
+
+*********
+**DAY 32 | 09/21/2020 | Monday**
+
+**Today&#39;s Progress:**
+
+_Reading:_
+
+- Read whitepaper [Blue/Green Deployments on AWS](https://d1.awsstatic.com/whitepapers/AWS_Blue_Green_Deployments.pdf) (half)
+
+![](RackMultipart20200921-4-1f7a32r_html_237499165a11f2b9.gif)
+
+
+*********
