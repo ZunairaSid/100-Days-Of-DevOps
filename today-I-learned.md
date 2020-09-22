@@ -612,3 +612,15 @@ _Reading:_
 
 
 *********
+**DAY 33 | 09/22/2020 | Monday**
+
+**Today&#39;s Progress:**
+
+_Reading:_
+
+- Completed reading of whitepaper [Blue/Green Deployments on AWS](https://d1.awsstatic.com/whitepapers/AWS_Blue_Green_Deployments.pdf) 
+
+![](RackMultipart20200921-4-1f7a32r_html_237499165a11f2b9.gif)
+
+
+*********
