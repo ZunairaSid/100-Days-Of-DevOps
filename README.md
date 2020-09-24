@@ -16,10 +16,10 @@ I will dedicate at least 3 hours from my day for this challenge and will share m
 **White Papers**
 
 - [x] [AWS Well Architecture Framework](https://bit.ly/3aAfe8J)<br>
-- [ ] [AWS Blue-Green Deployment](https://bit.ly/2Q2r563)
+- [x] [AWS Blue-Green Deployment](https://bit.ly/2Q2r563)
 - [x] [Overview of Security Processes](https://d1.awsstatic.com/whitepapers/Security/Intro_to_AWS_Security.pdf?did=wp_card&trk=wp_card)<br>
-- [ ] [Implementing](https://bit.ly/2CHErSo)[Microservices on AWS](https://bit.ly/2CHErSo)
-- [ ] [Practicing](https://d1.awsstatic.com/whitepapers/DevOps/practicing-continuous-integration-continuous-delivery-on-AWS.pdf)[CI/CD on AWS](https://d1.awsstatic.com/whitepapers/DevOps/practicing-continuous-integration-continuous-delivery-on-AWS.pdf)
+- [x] [Implementing](https://bit.ly/2CHErSo)[Microservices on AWS](https://bit.ly/2CHErSo)
+- [x] [Practicing](https://d1.awsstatic.com/whitepapers/DevOps/practicing-continuous-integration-continuous-delivery-on-AWS.pdf)[CI/CD on AWS](https://d1.awsstatic.com/whitepapers/DevOps/practicing-continuous-integration-continuous-delivery-on-AWS.pdf)
 
 **AWS hands-on task**
 
@@ -44,7 +44,8 @@ I will dedicate at least 3 hours from my day for this challenge and will share m
 - [x] Migrate BLOB data stored in a relational database table to S3.<br>
 - [x] Create an EC2 work station and give limited permission to a IAM user to use it.<br>
 - [ ] Build Fault Tolerance Website.
-- [x] Create a custom AMI.
+- [x] Create a custom AMI.<br>
+- [x] Use AWS Step Functions to manage a long-running process.<br>
 - [ ] Create a status website using EC2, S3 ,IAM roles and bash script.
 - [x] Deploy Tomcat application dynamically.</br>
 - [x] Use the OWASP Zed Attack Proxy (ZAP) to do a penetration test on a sample application.</br>
@@ -53,7 +54,7 @@ I will dedicate at least 3 hours from my day for this challenge and will share m
 - [x] Build a static website with a custom domain, using Route 53 Alias record sets and S3 bucket.<br>
 - [x] Build a website from two EC2 instances, and route traffic using an Application Load Balancer. Create and manage DNS records inside of Route 53.<br>
 - [x] Troubleshoot elastic load balancer connectivity.<br>
-- [x] Configured hybrid DNS using Route 53 inbound and outbound resolver endpoints.<br>
+- [x] Configure hybrid DNS using Route 53 inbound and outbound resolver endpoints.<br>
 - [x] Troubleshoot  network connectivity connectivity in 3-tier network.<br>
 - [x] Troubleshoot EC2 network connectivity issues.<br>
 - [x] Validate connectivity for Amazon EC2 instance in a public and private subnet.<br>
@@ -63,21 +64,25 @@ I will dedicate at least 3 hours from my day for this challenge and will share m
 - [x] Read/ write to a DynamoDB table using the AWS Management Console, AWS CLI, and the Python Boto3 SDK.<br>
 - [x] Managed data relationships in dynamo DB(one-to-one, one-to-many, many-to-many, hierarchical data).<br>
 - [x] Backup and restore data using AMIs and EBS.<br>
-- [x] Implemented a simple application that accepts CSV files, converts them to DynamoDB-JSON, and puts the data into a table with the same name as the file.<br>
+- [x] Implement a simple application that accepts CSV files, converts them to DynamoDB-JSON, and puts the data into a table with the same name as the file.<br>
 - [x] Deploy highly available web applications along with a highly available bastion host using the RDS database from a snapshot, Security groups, Launch configurations, Auto Scaling groups, and Application Load Balancer.<br>
-- [ ] Use the Database Migrations Service (DMS) to migrate a database from an EC2 server to RDS.
+- [x] Use the Database Migrations Service (DMS) to migrate a database from an EC2 server to RDS.<br>
+- [x] Use AWS DMS to migrate data to an aurora database.<br>
+- [x] Migrate a normalized relational database to an Amazon DynamoDB table.<br>
+- [x] Create simple lambda function.<br>
+- [x] Create an EC2 with lambda & shut it down using basic lambda function.<br>
 - [ ] Process DynamoDB stream using lambda.
-- [x] Deployed RDS multi-AZ and Read Replica.<br>
+- [x] Deploy RDS multi-AZ and Read Replica.<br>
 - [x] Set up an 2 EC2 instances with an autoscaling group and resized EBS volumes for performance.<br>
 - [x] Create a private RDS database and accesse it using EC2 bastion host.<br>
-- [x] Restored RDS instance using snapshot.<br>
-- [ ] Migrate data from a Relational Database to DynamoDB.
+- [x] Restor RDS instance using snapshot.<br>
+- [x] Migrate data from a Relational Database to DynamoDB.<br>
 - [x] Provision a DynamoDB Accelerator (DAX) on existing DynamoDB solution.<br>
-- [x] Utilized write sharding to optimize data ingestion in Dynamodb.<br>
+- [x] Utilize write sharding to optimize data ingestion in Dynamodb.<br>
 - [ ] Use Data Pipeline to copy DynamoDB data to an S3 bucket.
 - [ ] Choose the right size EC2 instance for cost optimization.<br>
 - [x] Create and configure a CloudTrail trail and a CloudWatch Logs & alarms ,in order to set up access email alerts for an S3 bucket write/read.<br>
-- [x] Created a Windows EC2 instance and connected it through the remote desktop protocol(RDP).<br>
+- [x] Create a Windows EC2 instance and connected it through the remote desktop protocol(RDP).<br>
 - [ ] Set AWS CloudWatch Logs and Incident Response using Elasticsearch ,Route 53 ,VPC Flow Logs,Elasticsearch Service and Kibana.
 - [x] Configure CloudWatch alarm with SNS and send email on EC2 shut down.<br>
 - [x] Config cloud watch dashboard to monitor resource utilization using custom widget and metrics.<br>
@@ -97,8 +102,11 @@ I will dedicate at least 3 hours from my day for this challenge and will share m
 - [ ] Implement AWS CodePipeline to deploy AWS infrastructure through AWS CloudFormation.
 - [x] Created Cloud Formation template from existing resources using cloud former.<br>
 - [x] Use Security groups and Network Access Control lists to secure the different layers of a multi-tier network.<br>
-- [ ] Work with SQS standand queues and FIFO queues.
-- [ ] Create and subscribe to AWS SNS topics.
+- [x] Work with SQS standand queues and FIFO queues.<br>
+- [x] Create and subscribe to AWS SQS topics.<br>
+- [x] Work with SQS standard queue, send messages to the queue, use multiple consumers to process queue data, set queue attributes, and consume messages.<br>
+- [x] Create and subscribe to AWS SNS topics.<br>
+- [x] Create and subscribe to SNS topics using multiple endpoints (SMS, EMAIL & LAMBDA).<br>
 - [ ] Create a Beanstalk application using CLI .
 - [ ] Patch live kubernetes deployments and drain a node for maintenance.
 
