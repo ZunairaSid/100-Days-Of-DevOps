@@ -642,11 +642,25 @@ _Reading:_
 
 _Reading:_
 
-- Read whitepaper [Practicing Continuous Integration and Continuous Delivery on AWS ](https://d1.awsstatic.com/whitepapers/DevOps/practicing-continuous-integration-continuous-delivery-on-AWS.pdf) 
+- Read whitepaper [Practicing Continuous Integration and Continuous Delivery on AWS ](https://d1.awsstatic.com/whitepapers/DevOps/practicing-continuous-integration-continuous-delivery-on-AWS.pdf) (half)
 
 ![](RackMultipart20200921-4-1f7a32r_html_237499165a11f2b9.gif)
 
 
 *********
+**DAY 36 | 09/24/2020 | Thursday**
+
+**Today&#39;s Progress:**
+
+_Reading:_
+
+- Completed reading of whitepaper [Practicing Continuous Integration and Continuous Delivery on AWS ](https://d1.awsstatic.com/whitepapers/DevOps/practicing-continuous-integration-continuous-delivery-on-AWS.pdf)
+
+![](RackMultipart20200921-4-1f7a32r_html_237499165a11f2b9.gif)
+
+
+*********
+
+
 
 
