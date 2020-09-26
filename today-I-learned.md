@@ -648,7 +648,7 @@ _Reading:_
 
 
 *********
-**DAY 36 | 09/24/2020 | Thursday**
+**DAY 36 | 09/25/2020 | Friday**
 
 **Today&#39;s Progress:**
 
@@ -661,6 +661,24 @@ _Reading:_
 
 *********
 
+**DAY 36 | 09/26/2020 | Saturday**
+
+**Today&#39;s Progress:** Learning &amp; practicing AWS Developer tools: Codebuild , CodeCommit, CodeDeploy.
+
+_Reading:_
+
+- Read FAQs of [Codebuild](https://aws.amazon.com/codebuild/faqs/), [CodeCommit](https://aws.amazon.com/codecommit/faqs/).
+
+_Hands-on:_
+
+- Set up a source code repository with AWS CodeCommit and created an S3 bucket to host static web applications.
+- Created code commit to trigger an email notification.
+- Worked with CodeCommit from the CLI.
+- Tracked CodeCommit commit metadata using dynamo DB.
+- Rolling Updates to a Highly Distributed Web Application with AWS CodeDeploy.
+
+![](RackMultipart20200926-4-nynuh5_html_237499165a11f2b9.gif)
 
 
+*******
 
