@@ -681,4 +681,26 @@ _Hands-on:_
 
 
 *******
+**DAY 38 | 09/27/2020 | Sunday**
+
+**Today&#39;s Progress:** Learning &amp; practicing AWS Developer tools : Codebuild , CodeCommit, CodeDeploy , CodePipeline ,Cloud9 ,X-ray.
+
+_Reading:_
+
+- Read FAQs of [CodePipeline](https://aws.amazon.com/codepipeline/faqs/) ,[Cloud9](https://aws.amazon.com/cloud9/faqs/) ,[X-ray](https://aws.amazon.com/xray/faqs/).
+
+_Hands-on:_
+
+- Create and use a Continuous Integration/Continuous Delivery pipeline to deploy a new version of the website automatically.
+- Setting up AWS CodePipeline to continuously deploy our web application to S3.
+- Create code commit to trigger an email notification.
+- Setting Up an AWS CodePipeline with a Manual Approval
+- CodePipeline for Continuous Deployment to Elastic Beanstalk
+- Monitoring AWS CodePipeline Changes Through AWS CloudWatch Events Rules.
+
+![](RackMultipart20200927-4-mtsyvk_html_237499165a11f2b9.gif)
+
+
+
+**********
 
