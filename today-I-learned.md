@@ -704,3 +704,17 @@ _Hands-on:_
 
 **********
 
+**DAY 39 | 09/28/2020 | Monday**
+
+**Today&#39;s Progress:** Practicing AWS Developer tools : Code Star
+
+_Reading:_
+
+- Read FAQs of [CodeStar.](https://aws.amazon.com/codestar/faqs/)
+
+_Hands-on:_
+
+- Used AWS CodeStar, a frontend tool that will automatically configure AWS CodeCommit, AWS CodeBuild, AWS CodeDeploy, and AWS CodePipeline.
+- Deployed Custom Code with a CI/CD Pipeline Using AWS CodeStar.
+
+![](RackMultipart20200928-4-o2d1te_html_237499165a11f2b9.gif)
