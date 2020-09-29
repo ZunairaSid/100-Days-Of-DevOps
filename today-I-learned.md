@@ -691,12 +691,9 @@ _Reading:_
 
 _Hands-on:_
 
-- Create and use a Continuous Integration/Continuous Delivery pipeline to deploy a new version of the website automatically.
-- Setting up AWS CodePipeline to continuously deploy our web application to S3.
-- Create code commit to trigger an email notification.
-- Setting Up an AWS CodePipeline with a Manual Approval
-- CodePipeline for Continuous Deployment to Elastic Beanstalk
-- Monitoring AWS CodePipeline Changes Through AWS CloudWatch Events Rules.
+- Created and use a Continuous Integration/Continuous Delivery pipeline to deploy a new version of the website automatically.
+- Set up AWS CodePipeline to continuously deploy our web application to S3.
+- Created code commit to trigger an email notification.
 
 ![](RackMultipart20200927-4-mtsyvk_html_237499165a11f2b9.gif)
 
@@ -715,6 +712,23 @@ _Reading:_
 _Hands-on:_
 
 - Used AWS CodeStar, a frontend tool that will automatically configure AWS CodeCommit, AWS CodeBuild, AWS CodeDeploy, and AWS CodePipeline.
-- Deployed Custom Code with a CI/CD Pipeline Using AWS CodeStar.
+- Deployed custom code with a CI/CD Pipeline using AWS CodeStar.
+
+![](RackMultipart20200928-4-o2d1te_html_237499165a11f2b9.gif)
+
+
+
+**********
+
+**DAY 40 | 09/29/2020 | Tuesday**
+
+**Today&#39;s Progress:** Practicing AWS Developer tools:
+
+_Hands-on:_
+
+- Set up an AWS CodePipeline with a manual approval.
+- Set up CodePipeline for continuous deployment to Elastic Beanstalk
+- Monitored AWS CodePipeline changes through AWS CloudWatch events rules.
+
 
 ![](RackMultipart20200928-4-o2d1te_html_237499165a11f2b9.gif)
