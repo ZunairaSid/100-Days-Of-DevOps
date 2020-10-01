@@ -1,8 +1,8 @@
 #
 # **Today I Learned (TIL)**
 
-**Disclaimer** : This timeline is tailored for the intermediate level and might not be suitable for everyone. Will be following [AWS Certified Solutions Architect – Associate (SAA-C02)](https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS-Certified-Solutions-Architect-Associate_Exam-Guide.pdf) , [AWS Certified Developer – Associate (DVA-C01)](https://d1.awsstatic.com/training-and-certification/docs-dev-associate/AWS-Certified-Developer-Associate_Exam-Guide.pdf)exam guides, and [CKA\_Curriculum](https://github.com/cncf/curriculum/blob/master/CKA_Curriculum_V1.18.pdf).</br>
-_\* I will be using AWS service of Infrastructure as Code(IaC) **CloudFormation** for all practice tasks._
+**Disclaimer** : This timeline is tailored for the intermediate level and might not be suitable for everyone. Will be following [AWS Certified Solutions Architect – Associate (SAA-C02)](https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS-Certified-Solutions-Architect-Associate_Exam-Guide.pdf) , [AWS Certified Developer – Associate (DVA-C01)](https://d1.awsstatic.com/training-and-certification/docs-dev-associate/AWS-Certified-Developer-Associate_Exam-Guide.pdf)exam guides, [Docker Certified Associate Study Guide](https://training.mirantis.com/wp-content/uploads/2020/09/Docker-Study-Guide_v1.4_Aug-2020.pdf) and [CKA\_Curriculum](https://github.com/cncf/curriculum/blob/master/CKA_Curriculum_V1.18.pdf).</br>
+_\* I will be using AWS service of Infrastructure as Code(IaC) **CloudFormation** for all AWS practice tasks._
 
 ************
 
@@ -732,3 +732,36 @@ _Hands-on:_
 
 
 ![](RackMultipart20200928-4-o2d1te_html_237499165a11f2b9.gif)
+
+
+**********
+
+**DAY 41 | 09/30/2020 | Wednesday**
+
+**Today&#39;s Progress:**  Learning &amp; practicing Docker 
+_Reading:_
+
+- Read about  [Docker architecture & Docker engine.](https://docs.docker.com/get-started/overview/)
+
+_Hands-on:_
+
+- Installed docker & set up docker hub account.
+- Shared image on dockerhub.
+- Deployed static website to container.
+
+
+![](RackMultipart20200928-4-o2d1te_html_237499165a11f2b9.gif)
+
+**********
+
+**DAY 42 | 10/01/2020 |Thursday**
+
+**Today&#39;s Progress:** Learning &amp; practicing Docker
+_Reading:_
+
+- Read about  Docker image and containers.
+
+_Hands-on:_
+
+- Build container image.
+- Dockerized node.js applicatiom
