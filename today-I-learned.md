@@ -764,4 +764,22 @@ _Reading:_
 _Hands-on:_
 
 - Build container image.
-- Dockerized node.js applicatiom
+- Dockerized node.js application
+
+
+**********
+
+**DAY 43 | 10/02/2020 | Friday**
+
+**Today&#39;s Progress:** Learning &amp; practicing Docker
+_Reading:_
+
+- Read about  Docker file.
+
+_Hands-on:_
+
+- Created images using docker file.
+- Tagged and pushed images to dockerhub
+
+
+*********
