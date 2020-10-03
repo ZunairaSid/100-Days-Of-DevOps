@@ -783,3 +783,20 @@ _Hands-on:_
 
 
 *********
+
+
+**DAY 44 | 10/03/2020 | Saturday**
+
+**Today&#39;s Progress:** Learning &amp; practicing Docker
+_Reading:_
+
+- Read about  Docker Storage(Volume & bindmount).
+
+_Hands-on:_
+
+- Created data container.
+- Used volume for persistent storage with container.
+
+
+
+*********
