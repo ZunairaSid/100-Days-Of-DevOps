@@ -787,7 +787,7 @@ _Hands-on:_
 
 **DAY 44 | 10/03/2020 | Saturday**
 
-**Today&#39;s Progress:** Learning &amp; practicing Docker
+**Today&#39;s Progress:** Learning &amp; practicing Docker Volume
 _Reading:_
 
 - Read about  Docker Storage(Volume & bindmount).
@@ -796,6 +796,22 @@ _Hands-on:_
 
 - Created data container.
 - Used volume for persistent storage with container.
+
+
+
+*********
+
+**DAY 45 | 10/04/2020 | Sunday**
+
+**Today&#39;s Progress:** Learning &amp; practicing Docker Optimization 
+_Reading:_
+
+- Read about Docker Optimization.
+
+_Hands-on:_
+
+- Optimized Docker Build with OnBuild.
+- Optimized Docker Build with ignore file.
 
 
 
