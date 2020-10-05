@@ -816,3 +816,19 @@ _Hands-on:_
 
 
 *********
+
+**DAY 46 | 10/05/2020 | Monday**
+
+**Today&#39;s Progress:** Learning &amp; practicing Docker Network 
+_Reading:_
+
+- Read about Docker Network and network types.
+
+_Hands-on:_
+
+- Deployed container with network bridge for secure communication .
+- Created a linked network between application & database container.
+
+
+
+*********
