@@ -832,3 +832,35 @@ _Hands-on:_
 
 
 *********
+
+**DAY 47 | 10/06/2020 | Tuesday**
+
+**Today&#39;s Progress:** Learning &amp; practicing Docker File 
+_Reading:_
+
+- Read about Docker File and instructions.
+
+_Hands-on:_
+
+- Created image using docker file using multi stage build. 
+- Tagged and pushed the image to docekr hub.
+
+
+
+*********
+
+**DAY 48 | 10/07/2020 | Wednesday**
+
+**Today&#39;s Progress:** Learning &amp; practicing Container management 
+_Reading:_
+
+- Read about Container management ways.
+
+_Hands-on:_
+
+- Managed docker using portainer. 
+- Used watch tower to keep container up to date.
+
+
+
+*********
