@@ -859,7 +859,35 @@ _Reading:_
 _Hands-on:_
 
 - Managed docker using portainer. 
-- Used watch tower to keep container up to date.
+- Used Watchtower to keep container up to date.
+
+
+
+*********
+**DAY 49 | 10/08/2020 |Thursday**
+
+**Today&#39;s Progress:** Learning &amp; practicing Managing images 
+_Reading:_
+
+- Read about Image management ways .
+
+_Hands-on:_
+
+- Buid a private docker registry.
+- Looked into container logging ,adding metadata and tags.
+- Buid a load balancing container.
+
+*********
+**DAY 50 | 10/09/2020 |Friday**
+
+**Today&#39;s Progress:** Learning &amp; practicing Docker compose.
+_Reading:_
+
+- Read about Docker compose.
+
+_Hands-on:_
+
+- Building a microservice with docker compose. 
 
 
 
