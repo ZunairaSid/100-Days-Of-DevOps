@@ -28,7 +28,6 @@ I will dedicate at least 3 hours from my day for this challenge and will share m
 - [x] Configure CloudWatch alarm when EC2 CPU utilization exceeds the defined limit.<br>
 - [x] Use elasticache to improve DynamoDB performance.<br>
 - [x] Build a 3-tier network from scratch using VPC,subnets, NACL,Internet gateway ,NAT gateway and route tables. <br>
-- [ ] Create an IAM Role and configure an EC2 Instance for AWS Systems Manager.<br>
 - [x] Set up CloudFront as HTTPS endpoint for S3.<br>
 - [x] Create a Multi-Subnet network with secure access to private servers with outbound internet access using VPC , private &amp; public subnets ,NAT gateway &amp; Internet Gateway, and Bastion Host.<br>
 - [x] Create VPC endpoints and attach it to S3 bucket.<br>
@@ -43,10 +42,10 @@ I will dedicate at least 3 hours from my day for this challenge and will share m
 - [x] Create an S3 bucket batch operation job.<br>
 - [x] Migrate BLOB data stored in a relational database table to S3.<br>
 - [x] Create an EC2 work station and give limited permission to a IAM user to use it.<br>
-- [ ] Build Fault Tolerance Website.
+- [x] Build Fault Tolerance Website.<br>
 - [x] Create a custom AMI.<br>
 - [x] Use AWS Step Functions to manage a long-running process.<br>
-- [ ] Create a status website using EC2, S3 ,IAM roles and bash script.
+- [x] Create a status website using EC2, S3 ,IAM roles and bash script.<br>
 - [x] Deploy Tomcat application dynamically.</br>
 - [x] Use the OWASP Zed Attack Proxy (ZAP) to do a penetration test on a sample application.</br>
 - [x] Use the OWASP Zed Attack Proxy (ZAP) to do a penetration test on a sample application.</br>
@@ -58,7 +57,6 @@ I will dedicate at least 3 hours from my day for this challenge and will share m
 - [x] Troubleshoot  network connectivity connectivity in 3-tier network.<br>
 - [x] Troubleshoot EC2 network connectivity issues.<br>
 - [x] Validate connectivity for Amazon EC2 instance in a public and private subnet.<br>
-- [ ] Manage the deployment of EC2 instances in an Auto Scaling Group using Lifecycle Hooks.
 - [x] Backup on-demand and point-in-time recovery of dynamoDB.<br>
 - [x] Provision a DynamoDB Accelerator (DAX) on existing DynamoDB solution.<br>
 - [x] Read/ write to a DynamoDB table using the AWS Management Console, AWS CLI, and the Python Boto3 SDK.<br>
@@ -71,7 +69,7 @@ I will dedicate at least 3 hours from my day for this challenge and will share m
 - [x] Migrate a normalized relational database to an Amazon DynamoDB table.<br>
 - [x] Create simple lambda function.<br>
 - [x] Create an EC2 with lambda & shut it down using basic lambda function.<br>
-- [ ] Process DynamoDB stream using lambda.
+- [x] Process DynamoDB stream using lambda.<br>
 - [x] Deploy RDS multi-AZ and Read Replica.<br>
 - [x] Set up an 2 EC2 instances with an autoscaling group and resized EBS volumes for performance.<br>
 - [x] Create a private RDS database and accesse it using EC2 bastion host.<br>
@@ -79,18 +77,17 @@ I will dedicate at least 3 hours from my day for this challenge and will share m
 - [x] Migrate data from a Relational Database to DynamoDB.<br>
 - [x] Provision a DynamoDB Accelerator (DAX) on existing DynamoDB solution.<br>
 - [x] Utilize write sharding to optimize data ingestion in Dynamodb.<br>
-- [ ] Use Data Pipeline to copy DynamoDB data to an S3 bucket.
-- [ ] Choose the right size EC2 instance for cost optimization.<br>
+- [x] Use Data Pipeline to copy DynamoDB data to an S3 bucket.<br>
+- [x] Choose the right size EC2 instance for cost optimization.<br>
 - [x] Create and configure a CloudTrail trail and a CloudWatch Logs & alarms ,in order to set up access email alerts for an S3 bucket write/read.<br>
 - [x] Create a Windows EC2 instance and connected it through the remote desktop protocol(RDP).<br>
-- [ ] Set AWS CloudWatch Logs and Incident Response using Elasticsearch ,Route 53 ,VPC Flow Logs,Elasticsearch Service and Kibana.
 - [x] Configure CloudWatch alarm with SNS and send email on EC2 shut down.<br>
 - [x] Config cloud watch dashboard to monitor resource utilization using custom widget and metrics.<br>
-- [ ] Build CI/CD pipeline using AWS Pipeline to deploy static website on s3.
-- [ ] Build a simple serverless website with route53 , API gateway and lambda.
-- [ ] Create Serverless web page with API gateway and lambda .
-- [ ] Create a reminder serverless application using a static website , hosted on S3 , using AWS Step Functions, API Gateway, AWS Lambda.
-- [ ] Trigger a Lambda function using SQS and dynamoDB.
+- [x] Build CI/CD pipeline using AWS Pipeline to deploy static website on s3.<br>
+- [x] Build a simple serverless website with route53 , API gateway and lambda.<br>
+- [x] Create Serverless web page with API gateway and lambda .<br>
+- [x] Create a reminder serverless application using a static website , hosted on S3 , using AWS Step Functions, API Gateway, AWS Lambda.<br>
+- [x] Trigger a Lambda function using SQS and dynamoDB.<br>
 - [x] See logs using cloudwatch &amp; create billing alarms. <br>
 - [x] Create an Aurora database cluster and a database parameter group, along with a custom endpoint. <br>
 - [x] Create an Aurora MySQL database cluster in private subnet. <br>
@@ -98,8 +95,8 @@ I will dedicate at least 3 hours from my day for this challenge and will share m
 - [x] Deploy a website canary using cloudformation. <br>
 - [x] Deploy a basic infrastructure using CloudFormation Templates.<br>
 - [x] Update cloud formation stacks with direct updates and changesets.<br>
-- [ ] Roll updates to a highly distributed web application with AWS CodeDeploy.
-- [ ] Implement AWS CodePipeline to deploy AWS infrastructure through AWS CloudFormation.
+- [x] Roll updates to a highly distributed web application with AWS CodeDeploy.<br>
+- [x] Implement AWS CodePipeline to deploy AWS infrastructure through AWS CloudFormation.<br>
 - [x] Created Cloud Formation template from existing resources using cloud former.<br>
 - [x] Use Security groups and Network Access Control lists to secure the different layers of a multi-tier network.<br>
 - [x] Work with SQS standand queues and FIFO queues.<br>
@@ -107,7 +104,7 @@ I will dedicate at least 3 hours from my day for this challenge and will share m
 - [x] Work with SQS standard queue, send messages to the queue, use multiple consumers to process queue data, set queue attributes, and consume messages.<br>
 - [x] Create and subscribe to AWS SNS topics.<br>
 - [x] Create and subscribe to SNS topics using multiple endpoints (SMS, EMAIL & LAMBDA).<br>
-- [ ] Create a Beanstalk application using CLI .
+- [x] Create a Beanstalk application using CLI .
 - [ ] Patch live kubernetes deployments and drain a node for maintenance.
 
 **Kubernetes Hands-on task**
