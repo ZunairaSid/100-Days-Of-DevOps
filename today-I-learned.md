@@ -892,3 +892,18 @@ _Hands-on:_
 
 
 *********
+**DAY 51 | 10/10/2020 |Saturday**
+
+**Today&#39;s Progress:** Learning &amp; practicing Jenkins.
+_Reading:_
+
+- Read about CI/CD & test driven development.
+
+_Hands-on:_
+
+- Installed jenkins on ubuntu.
+ - Explored the jenkins UI and system configuration.
+
+
+
+*********
