@@ -739,6 +739,7 @@ _Hands-on:_
 **DAY 41 | 09/30/2020 | Wednesday**
 
 **Today&#39;s Progress:**  Learning &amp; practicing Docker 
+
 _Reading:_
 
 - Read about  [Docker architecture & Docker engine.](https://docs.docker.com/get-started/overview/)
@@ -757,6 +758,7 @@ _Hands-on:_
 **DAY 42 | 10/01/2020 |Thursday**
 
 **Today&#39;s Progress:** Learning &amp; practicing Docker
+
 _Reading:_
 
 - Read about  Docker image and containers.
@@ -772,6 +774,7 @@ _Hands-on:_
 **DAY 43 | 10/02/2020 | Friday**
 
 **Today&#39;s Progress:** Learning &amp; practicing Docker
+
 _Reading:_
 
 - Read about  Docker file.
@@ -788,6 +791,7 @@ _Hands-on:_
 **DAY 44 | 10/03/2020 | Saturday**
 
 **Today&#39;s Progress:** Learning &amp; practicing Docker Volume
+
 _Reading:_
 
 - Read about  Docker Storage(Volume & bindmount).
@@ -804,6 +808,7 @@ _Hands-on:_
 **DAY 45 | 10/04/2020 | Sunday**
 
 **Today&#39;s Progress:** Learning &amp; practicing Docker Optimization 
+
 _Reading:_
 
 - Read about Docker Optimization.
@@ -820,6 +825,7 @@ _Hands-on:_
 **DAY 46 | 10/05/2020 | Monday**
 
 **Today&#39;s Progress:** Learning &amp; practicing Docker Network 
+
 _Reading:_
 
 - Read about Docker Network and network types.
@@ -836,6 +842,7 @@ _Hands-on:_
 **DAY 47 | 10/06/2020 | Tuesday**
 
 **Today&#39;s Progress:** Learning &amp; practicing Docker File 
+
 _Reading:_
 
 - Read about Docker File and instructions.
@@ -852,6 +859,7 @@ _Hands-on:_
 **DAY 48 | 10/07/2020 | Wednesday**
 
 **Today&#39;s Progress:** Learning &amp; practicing Container management 
+
 _Reading:_
 
 - Read about Container management ways.
@@ -867,6 +875,7 @@ _Hands-on:_
 **DAY 49 | 10/08/2020 |Thursday**
 
 **Today&#39;s Progress:** Learning &amp; practicing Managing images 
+
 _Reading:_
 
 - Read about Image management ways .
@@ -881,6 +890,7 @@ _Hands-on:_
 **DAY 50 | 10/09/2020 |Friday**
 
 **Today&#39;s Progress:** Learning &amp; practicing Docker compose.
+
 _Reading:_
 
 - Read about Docker compose.
@@ -895,6 +905,7 @@ _Hands-on:_
 **DAY 51 | 10/10/2020 |Saturday**
 
 **Today&#39;s Progress:** Learning &amp; practicing Jenkins.
+
 _Reading:_
 
 - Read about CI/CD & test driven development.
@@ -903,6 +914,40 @@ _Hands-on:_
 
 - Installed jenkins on ubuntu.
  - Explored the jenkins UI and system configuration.
+
+
+
+*********
+**DAY 52 | 10/11/2020 |Sunday**
+
+**Today&#39;s Progress:** Learning &amp; practicing Jenkins.
+
+_Reading:_
+
+- Read about Jenkins plug-ins.
+
+_Hands-on:_
+
+- Installed jenkins on ubuntu.
+ - Explored managing, updating &adding pug-ins.
+
+
+
+*********
+**DAY 53 | 10/12/2020 |Monday**
+
+**Today&#39;s Progress:** Learning &amp; practicing Jenkins.
+
+_Reading:_
+
+- Read about Jenkins jobs.
+
+_Hands-on:_
+
+- Installed jenkins on ubuntu.
+ - Build a free style job .
+  - Added parameters and notifications in free style job .
+ 
 
 
 
