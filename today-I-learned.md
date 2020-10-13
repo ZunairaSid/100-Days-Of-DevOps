@@ -944,9 +944,22 @@ _Reading:_
 
 _Hands-on:_
 
-- Installed jenkins on ubuntu.
- - Build a free style job .
-  - Added parameters and notifications in free style job .
+- Build a free style job .
+- Added parameters and notifications in free style job .
+ 
+
+
+
+*********
+**DAY 54 | 10/13/2020 |Tuesday**
+
+**Today&#39;s Progress:** Practicing Jenkins.
+
+_Hands-on:_
+
+- Set up a build remote agent.
+- Distributed workload between build agents.
+- Monitored a build remote agent.
  
 
 
