@@ -1,2 +1,2 @@
-# some_code
-just a shell script
+# sample_code
+shell script for jenkins pipeline
