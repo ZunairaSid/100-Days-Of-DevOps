@@ -948,8 +948,6 @@ _Hands-on:_
 - Added parameters and notifications in free style job .
  
 
-
-
 *********
 **DAY 54 | 10/13/2020 |Tuesday**
 
@@ -963,5 +961,36 @@ _Hands-on:_
  
 
 
+
+*********
+
+**DAY 55 | 10/14/2020 |Wednesday**
+
+**Today&#39;s Progress:** Learning &amp; practicing Jenkins.
+
+
+_Reading:_
+
+- Read about Webhooks.
+
+_Hands-on:_
+
+- Build a free style job that used Git and ant installation.
+ 
+
+*********
+**DAY 56 | 10/15/2020 |Thursday**
+
+**Today&#39;s Progress:** Learning &amp; practicing Jenkins.
+
+
+_Reading:_
+
+- Read about Webhooks.
+
+_Hands-on:_
+
+- Used Jenkins and its plugins to build an artifact.
+ 
 
 *********
