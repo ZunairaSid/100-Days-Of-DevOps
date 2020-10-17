@@ -986,11 +986,57 @@ _Hands-on:_
 
 _Reading:_
 
-- Read about Webhooks.
+- Read about Jenkins upstream , downstream and triggers.
 
 _Hands-on:_
 
-- Used Jenkins and its plugins to build an artifact.
+- Linked jobs in jenkins and produced artifacts.
+ 
+*********
+**DAY 57 | 10/16/2020 |Friday**
+
+**Today&#39;s Progress:** Learning &amp; practicing Jenkins.
+
+
+_Reading:_
+
+- Read about pipelines.
+
+_Hands-on:_
+
+- Created a pipeline job.
+- Created a pipeline job using blue ocean editor.
+ 
+*********
+**DAY 58 | 10/17/2020 |Saturday**
+
+**Today&#39;s Progress:** Learning &amp; practicing Jenkins pipelines.
+
+
+_Reading:_
+
+- Read about differences in scripted and declarative pipelines.
+
+_Hands-on:_
+
+- Created a scripted pipeline job.
+- Created a declarative pipeline job.
+
+
+
+ *********
+**DAY 59 | 10/18/2020 |Sunday**
+
+**Today&#39;s Progress:** Learning &amp; practicing Jenkins pipeline.
+
+
+_Reading:_
+
+- Read about pipelines triggers.
+
+_Hands-on:_
+
+- Created a multibranch pipeline job.
  
 
-*********
+
