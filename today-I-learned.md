@@ -1025,6 +1025,7 @@ _Hands-on:_
 
 
  *********
+
 **DAY 59 | 10/18/2020 |Sunday**
 
 **Today&#39;s Progress:** Learning &amp; practicing Jenkins pipeline.
@@ -1037,6 +1038,40 @@ _Reading:_
 _Hands-on:_
 
 - Created a multibranch pipeline job.
+
+
+*********
+
+**DAY 60 | 10/19/2020 |Monday**
+
+**Today&#39;s Progress:** Learning &amp; practicing Jenkins pipeline.
+
+
+_Reading:_
+
+- Read about global libraries.
+
+_Hands-on:_
+
+- Used Jenkins build agents for carrying out different parts of a Jenkins job.
  
+
+*********
+
+
+**DAY 61 | 10/20/2020 |Tuesday**
+
+**Today&#39;s Progress:** Learning &amp; practicing Jenkins pipeline.
+
+
+_Reading:_
+
+- Read about docker in pipeline.
+
+_Hands-on:_
+
+- Created a Jenkins Pipeline job to deploy Docker container with an application.
+ 
+
 
 
