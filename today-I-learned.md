@@ -1072,6 +1072,25 @@ _Hands-on:_
 
 - Created a Jenkins Pipeline job to deploy Docker container with an application.
  
+**DAY 62 | 10/21/2020 | Wednesday**
 
+**Today&#39;s Progress:** Reading &amp; practicing Kubernetes pod&#39;s containers.
+
+_Reading:_
+
+- Read about [containers](https://kubernetes.io/docs/concepts/containers/), [container patterns](https://kubernetes.io/blog/2015/06/the-distributed-system-toolkit-patterns/), &amp; [init container.](https://kubernetes.io/docs/concepts/workloads/pods/init-containers/)
+
+_Hands-on:_
+
+- [Assigned memory resources to containers in a pod](https://kubernetes.io/docs/tasks/configure-pod-container/assign-memory-resource/).
+- [Assigned CPU resources to containers in a pod.](https://kubernetes.io/docs/tasks/configure-pod-container/assign-cpu-resource/)
+- [Created a multi-container pod.](https://kubernetes.io/docs/tasks/configure-pod-container/quality-service-pod/#create-a-pod-that-has-two-containers)
+- [Assign Extended Resources to a Container](https://kubernetes.io/docs/tasks/configure-pod-container/extended-resource/)
+- Created a multi-container pod using the ambassador mode.
+
+![](RackMultipart20201021-4-hfjqhi_html_237499165a11f2b9.gif)
+
+
+**********
 
 
