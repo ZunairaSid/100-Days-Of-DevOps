@@ -1058,7 +1058,6 @@ _Hands-on:_
 
 *********
 
-
 **DAY 61 | 10/20/2020 |Tuesday**
 
 **Today&#39;s Progress:** Learning &amp; practicing Jenkins pipeline.
@@ -1072,6 +1071,8 @@ _Hands-on:_
 
 - Created a Jenkins Pipeline job to deploy Docker container with an application.
  
+**********
+
 **DAY 62 | 10/21/2020 | Wednesday**
 
 **Today&#39;s Progress:** Reading &amp; practicing Kubernetes pod&#39;s containers.
@@ -1092,5 +1093,39 @@ _Hands-on:_
 
 
 **********
+
+**DAY 63 | 10/22/2020 | Thursday**
+
+**Today&#39;s Progress:** Reading &amp; practicing Kubernetes Pods.
+
+_Reading:_
+
+- Read about [pods, pod storage, pod network, static pod](https://kubernetes.io/docs/concepts/workloads/pods/) &amp; [pod lifecycle](https://kubernetes.io/docs/concepts/workloads/pods/pod-lifecycle/).
+
+_Hands-on:_
+
+- [Created a static pod.](https://kubernetes.io/docs/tasks/configure-pod-container/static-pod/)
+- Created Kubernetes Nginx pod using the YAML file.
+- Created a multi-container pod using the ambassador mode.
+- [Share Process Namespace between Containers in a Pod.](https://kubernetes.io/docs/tasks/configure-pod-container/share-process-namespace/)
+
+![](RackMultipart20201023-4-ewgchu_html_237499165a11f2b9.gif)
+
+**DAY 64 | 10/23/2020 | Friday**
+
+**Today&#39;s Progress:** Reading &amp; practicing Kubernetes Workloads: Deployments.
+
+_Reading:_
+
+- Read about [Deployments](https://kubernetes.io/docs/concepts/workloads/controllers/deployment/), rollback, rollout history, rolling update, Canary Deployment
+- Read about the [deployment YAML file](https://kubernetes.io/docs/concepts/workloads/controllers/deployment/#writing-a-deployment-spec).
+
+_Hands-on:_
+
+- Deployed a microservice in Kubernetes.
+- Rollbacked the microservices deployment.
+- Performed a rolling update of an application.
+
+![](RackMultipart20201023-4-ewgchu_html_237499165a11f2b9.gif)
 
 
