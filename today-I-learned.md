@@ -1111,6 +1111,10 @@ _Hands-on:_
 
 ![](RackMultipart20201023-4-ewgchu_html_237499165a11f2b9.gif)
 
+
+
+**********
+
 **DAY 64 | 10/23/2020 | Friday**
 
 **Today&#39;s Progress:** Reading &amp; practicing Kubernetes Workloads: Deployments.
@@ -1129,3 +1133,46 @@ _Hands-on:_
 ![](RackMultipart20201023-4-ewgchu_html_237499165a11f2b9.gif)
 
 
+
+**********
+
+
+**DAY 65 | 10/24/2020 | Saturday**
+
+**Today&#39;s Progress:** Reading &amp; practicing Kubernetes Workloads: ReplicaSet, StatefulSet, DaemonSet.
+
+_Reading:_
+
+- Read about [ReplicaSet](https://kubernetes.io/docs/concepts/workloads/controllers/replicaset/), [Statefulset](https://kubernetes.io/docs/concepts/workloads/controllers/statefulset/), [DaemonSet](https://kubernetes.io/docs/concepts/workloads/controllers/daemonset/)
+- Read about the [ReplicaSet](https://kubernetes.io/docs/concepts/workloads/controllers/replicaset/#writing-a-replicaset-manifest), [DaemonSet](https://kubernetes.io/docs/concepts/workloads/controllers/replicaset/#writing-a-replicaset-manifest), and Statefulset manifest file.
+
+_Hands-on:_
+
+- [Created StatefulSet](https://kubernetes.io/docs/tutorials/stateful-application/basic-stateful-set/#creating-a-statefulset), [Replicaset](https://kubernetes.io/docs/concepts/workloads/controllers/replicaset/#example) &amp; [DaemonSet](https://kubernetes.io/docs/concepts/workloads/controllers/replicaset/#example)
+- [Deployed Cassandra with a StatefulSet](https://kubernetes.io/docs/tutorials/stateful-application/cassandra/)
+- [Run a Replicated Stateful Application](https://kubernetes.io/docs/tasks/run-application/run-replicated-stateful-application/)
+
+![](RackMultipart20201025-4-19d7uw7_html_237499165a11f2b9.gif)
+
+**********
+
+
+**DAY 66 | 10/25/2020 | Sunday**
+
+**Today&#39;s Progress:** Reading &amp; practicing Kubernetes Workloads: Jobs &amp; CronJob.
+
+_Reading:_
+
+- Read about [Job](https://kubernetes.io/docs/concepts/workloads/controllers/job/), [Job patterns](https://kubernetes.io/docs/concepts/workloads/controllers/job/#job-patterns), [CronJobs](https://kubernetes.io/docs/concepts/workloads/controllers/cron-jobs/)
+- Read about the [job](https://kubernetes.io/docs/concepts/workloads/controllers/job/#running-an-example-job), [cronjob](https://kubernetes.io/docs/concepts/workloads/controllers/cron-jobs/#example) manifest file.
+
+_Hands-on:_
+
+- [Run a job](https://kubernetes.io/docs/concepts/workloads/controllers/job/#running-an-example-job) &amp; cronjob.
+- [Clean up a finished job](https://kubernetes.io/docs/concepts/workloads/controllers/job/#clean-up-finished-jobs-automatically).
+
+![](RackMultipart20201025-4-19d7uw7_html_237499165a11f2b9.gif)
+
+
+
+**********
