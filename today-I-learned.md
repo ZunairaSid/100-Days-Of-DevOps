@@ -1176,3 +1176,40 @@ _Hands-on:_
 
 
 **********
+
+**DAY 67 | 10/26/2020 | Monday**
+
+**Today&#39;s Progress:** Reading &amp; practicing Kubernetes Workloads: Replica controller.
+
+_Reading:_
+
+- Read about the [Replica controller](https://kubernetes.io/docs/concepts/workloads/controllers/replicationcontroller/), [TTL controller](https://kubernetes.io/docs/concepts/workloads/controllers/ttlafterfinished/)&amp; garbage collector.
+- Read about the [replica controller](https://kubernetes.io/docs/concepts/workloads/controllers/replicationcontroller/) manifest file.
+
+_Hands-on:_
+
+- [Run a replica controlle](https://kubernetes.io/docs/concepts/workloads/controllers/replicationcontroller/)r.
+- [Run a Stateless Application Using a Deployment.](https://kubernetes.io/docs/tasks/run-application/run-stateless-application-deployment/)
+
+![](RackMultipart20201028-4-fnqeaz_html_237499165a11f2b9.gif)
+
+
+**********
+
+**DAY 68 | 10/27/2020 |Tuesday**
+
+**Today&#39;s Progress:** Reading &amp; practicing Kubernetes Workloads: Secret, Config Map.
+
+_Reading:_
+
+- Read about the [Secret](https://kubernetes.io/docs/concepts/configuration/secret/), [Config Map](https://kubernetes.io/docs/concepts/configuration/configmap/).
+- Read about the secret, config map manifest file.
+
+_Hands-on:_
+
+- [Configured config map for use with pod](https://kubernetes.io/docs/tasks/configure-pod-container/configure-pod-configmap/).
+- Created secret and consumed secret value from environment variables
+
+
+
+**********
