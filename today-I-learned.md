@@ -1213,3 +1213,76 @@ _Hands-on:_
 
 
 **********
+
+**DAY 69 | 10/28/2020 |Wednesday**
+
+**Today&#39;s Progress:** Reading &amp; practicing Kubernetes Objects specifier.
+
+_Reading:_
+
+- Read about the [objects](https://kubernetes.io/docs/concepts/overview/working-with-objects/kubernetes-objects/), [object Id](https://kubernetes.io/docs/concepts/overview/working-with-objects/names/)s,[namespace](https://kubernetes.io/docs/concepts/overview/working-with-objects/namespaces/), [labels, and selectors](https://kubernetes.io/docs/concepts/overview/working-with-objects/labels/), [annotation](https://kubernetes.io/docs/concepts/overview/working-with-objects/annotations/), [field selector](https://kubernetes.io/docs/concepts/overview/working-with-objects/field-selectors/).
+
+_Hands-on:_
+
+- [Configure Default CPU Requests and Limits for a Namespace](https://kubernetes.io/docs/tasks/administer-cluster/manage-resources/cpu-default-namespace/)
+- [Configure Minimum and Maximum CPU Constraints for a Namespa](https://kubernetes.io/docs/tasks/administer-cluster/manage-resources/cpu-constraint-namespace/)ce
+- [Configure Memory and CPU Quotas for a Namespace](https://kubernetes.io/docs/tasks/administer-cluster/manage-resources/quota-memory-cpu-namespace/)
+- [Configure Minimum and Maximum Memory Constraints for a Namespace](https://kubernetes.io/docs/tasks/administer-cluster/manage-resources/memory-constraint-namespace/)
+
+![](RackMultipart20201031-4-1mwdogx_html_237499165a11f2b9.gif)
+
+
+**********
+
+**DAY 70 | 10/29/2020 |Thursday**
+
+**Today&#39;s Progress:** Reading &amp; practicing Kubernetes Storage: Persistent Volumes &amp; Persistent Volume Claims.
+
+_Reading:_
+
+- Read about the [Volumes](https://kubernetes.io/docs/concepts/storage/volumes/), [Persistent Volumes &amp; Persistent Volume Claims](https://kubernetes.io/docs/concepts/storage/persistent-volumes/#persistentvolumeclaims)
+- Read about the [Persistent Volumes](https://kubernetes.io/docs/reference/generated/kubernetes-api/v1.19/#persistentvolumespec-v1-core) &amp; [Persistent Volume Claims](https://kubernetes.io/docs/reference/generated/kubernetes-api/v1.19/#persistentvolumeclaimspec-v1-core) manifest file.
+
+_Hands-on:_
+
+- [Deployed WordPress and MySQL with Persistent Volumes](https://kubernetes.io/docs/tutorials/stateful-application/mysql-wordpress-persistent-volume/)
+
+![](RackMultipart20201031-4-1mwdogx_html_237499165a11f2b9.gif)
+
+**********
+
+
+**DAY 71 | 10/30/2020 |Friday**
+
+**Today&#39;s Progress:** Reading &amp; practicing Kubernetes Storage: Dynamic Volume Provisioning &amp; Storage class.
+
+_Reading:_
+
+- Read about the [Storage class](https://kubernetes.io/docs/concepts/storage/storage-classes/) &amp;[Dynamic Volume Provisioning.](https://kubernetes.io/docs/concepts/storage/dynamic-provisioning/)
+- Read about the Storage class manifest file.
+
+_Hands-on:_
+
+- [Changed the default StorageClass](https://kubernetes.io/docs/tasks/administer-cluster/change-default-storage-class/)
+
+![](RackMultipart20201031-4-1mwdogx_html_237499165a11f2b9.gif)
+
+
+**********
+
+**DAY 72 | 10/31/2020 |Saturday**
+
+**Today&#39;s Progress:** Reading &amp; practicing Kubernetes Probes: Readiness, Startup and Liveness probes
+
+_Reading:_
+
+- Read about the Readiness, Startup, and Liveness probes[.](https://kubernetes.io/docs/concepts/storage/dynamic-provisioning/)
+
+_Hands-on:_
+
+- [Configures readiness, liveness, and startup probes](https://kubernetes.io/docs/tasks/configure-pod-container/configure-liveness-readiness-startup-probes/)
+
+![](RackMultipart20201031-4-1mwdogx_html_237499165a11f2b9.gif)
+
+**********
+
