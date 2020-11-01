@@ -1286,3 +1286,20 @@ _Hands-on:_
 
 **********
 
+**DAY 73 | 11/01/2020 |Sunday**
+
+**Today&#39;s Progress:** Reading &amp; practicing Kubernetes Probes: Managing Resources for Containers
+
+_Reading:_
+
+- Read about [managing resources for containers](https://kubernetes.io/docs/concepts/configuration/manage-resources-containers/)
+
+_Hands-on:_
+
+- [Assigned Memory Resources to Containers and Pods](https://kubernetes.io/docs/tasks/configure-pod-container/assign-memory-resource/)
+- [Assigned CPU Resources to Containers and Pods](https://kubernetes.io/docs/tasks/configure-pod-container/assign-cpu-resource/)
+
+![](RackMultipart20201101-4-1j28333_html_237499165a11f2b9.gif)
+
+
+**********
