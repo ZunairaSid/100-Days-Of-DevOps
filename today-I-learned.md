@@ -1303,3 +1303,21 @@ _Hands-on:_
 
 
 **********
+
+**DAY 74 | 11/02/2020 |Monday**
+
+**Today&#39;s Progress:** Reading &amp; practicing Kubernetes Cluster architecture: Node components
+
+_Reading:_
+
+- Read about [nodes](https://kubernetes.io/docs/concepts/architecture/nodes/), [node components](https://kubernetes.io/docs/concepts/overview/components/#node-components),[Kube-proxy](https://phoenixnap.com/kb/understanding-kubernetes-architecture-diagrams), [kubelet](https://medium.com/@kumargaurav1247/components-of-kubernetes-architecture-6feea4d5c712) , container runtime
+
+_Hands-on:_
+
+- [Accessed Clusters Using the Kubernetes API](https://kubernetes.io/docs/tasks/administer-cluster/access-cluster-api/)
+
+![](RackMultipart20201102-4-66y8ol_html_237499165a11f2b9.gif)
+
+
+**********
+
