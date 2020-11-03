@@ -1321,3 +1321,32 @@ _Hands-on:_
 
 **********
 
+![](RackMultipart20201103-4-11rxfaf_html_237499165a11f2b9.gif)
+
+**DAY 75 | 11/03/2020 |Tuesday**
+
+**Today&#39;s Progress:** Reading &amp; practicing Kubernetes Cluster architecture: Control Plane components
+
+_Reading:_
+
+- Read about [node control plane communication.](https://kubernetes.io/docs/concepts/architecture/control-plane-node-communication/)
+- Read about [control plane](https://kubernetes.io/docs/concepts/overview/components/#control-plane-components), etcd , scheduler, [controller](https://kubernetes.io/docs/concepts/architecture/controller/) , cloud controller manager.
+
+![](RackMultipart20201103-4-11rxfaf_html_237499165a11f2b9.gif)
+
+
+**********
+
+**DAY 76 | 11/04/2020 |Wednesday**
+
+**Today&#39;s Progress:** Reading &amp; practicing Kubernetes Cluster architecture: control plane components
+
+_Hands-on:_
+
+- [Configured a Pod to Use a Volume for Storage](https://kubernetes.io/docs/tasks/configure-pod-container/configure-volume-storage/)
+- [Configure a Pod to Use a PersistentVolume for Storage](https://kubernetes.io/docs/tasks/configure-pod-container/configure-persistent-volume-storage/)
+- [Configure a Pod to Use a Projected Volume for Storage](https://kubernetes.io/docs/tasks/configure-pod-container/configure-projected-volume-storage/)
+
+**********
+
+
