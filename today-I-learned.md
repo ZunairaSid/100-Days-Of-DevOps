@@ -1339,7 +1339,7 @@ _Reading:_
 
 **DAY 76 | 11/04/2020 |Wednesday**
 
-**Today&#39;s Progress:** Reading &amp; practicing Kubernetes Cluster architecture: control plane components
+**Today&#39;s Progress:** Practicing Kubernetes 
 
 _Hands-on:_
 
@@ -1349,4 +1349,14 @@ _Hands-on:_
 
 **********
 
+**DAY 77 | 11/05/2020 |Thursday**
 
+**Today&#39;s Progress:** Practicing Kubernetes
+
+_Hands-on:_
+
+- [Configure a Security Context for a Pod or Container](https://kubernetes.io/docs/tasks/configure-pod-container/security-context/)
+- [Configure Service Accounts for Pods](https://kubernetes.io/docs/tasks/configure-pod-container/configure-service-account/)
+- [Configure Pod Initialization](https://kubernetes.io/docs/tasks/configure-pod-container/configure-pod-initialization/)
+
+![](RackMultipart20201105-4-1c2at17_html_237499165a11f2b9.gif)
