@@ -1360,3 +1360,39 @@ _Hands-on:_
 - [Configure Pod Initialization](https://kubernetes.io/docs/tasks/configure-pod-container/configure-pod-initialization/)
 
 ![](RackMultipart20201105-4-1c2at17_html_237499165a11f2b9.gif)
+
+***************
+
+**DAY 78 | 11/06/2020 |Friday**
+
+**Today&#39;s Progress:** Reading &amp; practicing Kubernetes workload resources :TTL Controller ,
+
+_Reading:_
+
+- Read about [TTL Controller for Finished Resource](https://kubernetes.io/docs/concepts/workloads/controllers/ttlafterfinished/)s , [Configuration Best Practices](https://kubernetes.io/docs/concepts/configuration/overview/)
+
+_Hands-on:_
+
+- Clean up Jobs automatically
+
+![](RackMultipart20201106-4-jkt5vl_html_237499165a11f2b9.gif)
+
+
+***************
+
+**DAY 79 | 11/07/2020 |Saturday**
+
+**Today&#39;s Progress:** Reading &amp; practicing Kubernetes policies : Resource quotas , limit range
+
+_Reading:_
+
+- Read about [Managing Resources for Containers](https://kubernetes.io/docs/concepts/configuration/manage-resources-containers/) , [Resource quotes](https://kubernetes.io/docs/concepts/policy/resource-quotas/) and[limit ranges.](https://kubernetes.io/docs/concepts/policy/limit-range/)
+
+_Hands-on:_
+
+- Used [resource quote in PVC provisioning](https://kubernetes.io/docs/tasks/administer-cluster/quota-api-object/) .
+
+![](RackMultipart20201106-4-jkt5vl_html_237499165a11f2b9.gif)
+
+*******************
+
