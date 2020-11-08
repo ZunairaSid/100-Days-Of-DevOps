@@ -1396,3 +1396,21 @@ _Hands-on:_
 
 *******************
 
+**DAY 80 | 11/08/2020 |Sunday**
+
+**Today&#39;s Progress:** Reading &amp; practicing Scheduling and Eviction : Kubernetes Scheduler , limit range
+
+_Reading:_
+
+- Read about Kubernetes Scheduler , T[aints and Tolerations](https://kubernetes.io/docs/concepts/scheduling-eviction/taint-and-toleration/) , [Assigning Pods to Nodes](https://kubernetes.io/docs/concepts/scheduling-eviction/assign-pod-node/) ,
+
+_Hands-on:_
+
+- [Assigned pod to node](https://kubernetes.io/docs/tasks/configure-pod-container/assign-pods-nodes/)
+- [Assigned pod to node using node affinity](https://kubernetes.io/docs/tasks/configure-pod-container/assign-pods-nodes-using-node-affinity/)
+
+![](RackMultipart20201108-4-11i6pa5_html_237499165a11f2b9.gif)
+
+
+***********************
+
