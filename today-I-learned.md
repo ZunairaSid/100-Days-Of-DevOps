@@ -1414,3 +1414,42 @@ _Hands-on:_
 
 ***********************
 
+**DAY 81 | 11/09/2020 |Monday**
+
+**Today&#39;s Progress:** Reading &amp; practicing Kubernetes Debugging
+
+_Reading:_
+
+- Read about [Application Introspection and Debugging](https://kubernetes.io/docs/tasks/debug-application-cluster/debug-application-introspection/) and [auditing](https://kubernetes.io/docs/tasks/debug-application-cluster/audit/)
+
+_Hands-on:_
+
+- [Debug Init Containers](https://kubernetes.io/docs/tasks/debug-application-cluster/debug-init-containers/)
+- [Debug a StatefulSet](https://kubernetes.io/docs/tasks/debug-application-cluster/debug-stateful-set/)
+- [Debug Pods and ReplicationControllers](https://kubernetes.io/docs/tasks/debug-application-cluster/debug-pod-replication-controller/)
+
+![](RackMultipart20201109-4-1k5zrfl_html_237499165a11f2b9.gif)
+
+
+****************
+
+**DAY 82 | 11/10/2020 |Tuesday**
+
+**Today&#39;s Progress:** Reading &amp; practicing Scheduling and Eviction : Kubernetes Debugging
+
+_Reading:_
+
+- Read about[troubleshooting Clusters](https://kubernetes.io/docs/tasks/debug-application-cluster/debug-cluster/) and [troubleshooting Applications](https://kubernetes.io/docs/tasks/debug-application-cluster/debug-application/)
+
+_Hands-on:_
+
+- [Debug Running Pods](https://kubernetes.io/docs/tasks/debug-application-cluster/debug-running-pod/)
+- [Debug Services](https://kubernetes.io/docs/tasks/debug-application-cluster/debug-service/)
+- [Debug Kubernetes nodes with crictl](https://kubernetes.io/docs/tasks/debug-application-cluster/crictl/)
+
+![](RackMultipart20201109-4-1k5zrfl_html_237499165a11f2b9.gif)
+
+
+
+***********************
+
