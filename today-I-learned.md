@@ -1453,3 +1453,39 @@ _Hands-on:_
 
 ***********************
 
+**DAY 83 | 11/11/2020 |Wednesday**
+
+**Today&#39;s Progress:** Reading &amp; practicing Scheduling and Eviction : Kubernetes Debugging
+
+_Reading:_
+
+- Read about [Resource metrics pipeline](https://kubernetes.io/docs/tasks/debug-application-cluster/resource-metrics-pipeline/) ,[Logging Using Elasticsearch and Kibana](https://kubernetes.io/docs/tasks/debug-application-cluster/logging-elasticsearch-kibana/) ,
+
+_Hands-on:_
+
+- [Monitor node health](https://kubernetes.io/docs/tasks/debug-application-cluster/monitor-node-health/)
+- [Logging Using Stackdriver](https://kubernetes.io/docs/tasks/debug-application-cluster/logging-stackdriver/)
+
+![](RackMultipart20201112-4-1ei2b3x_html_237499165a11f2b9.gif)
+
+
+
+*****************
+
+
+**DAY 84 | 11/12/2020 |Thursday**
+
+**Today&#39;s Progress:** Reading &amp; practicing Scheduling and Eviction : Kubernetes Debugging
+
+_Reading:_
+
+- Read about t[ools for Monitoring Resources](https://kubernetes.io/docs/tasks/debug-application-cluster/resource-usage-monitoring/) , [Developing and debugging services locally](https://kubernetes.io/docs/tasks/debug-application-cluster/local-debugging/) , [Events in Stackdriver](https://kubernetes.io/docs/tasks/debug-application-cluster/events-stackdriver/)
+
+_Hands-on:_
+
+- [Determine the Reason for Pod Failure](https://kubernetes.io/docs/tasks/debug-application-cluster/determine-reason-pod-failure/)
+
+![](RackMultipart20201112-4-1ei2b3x_html_237499165a11f2b9.gif)
+
+
+*************************
