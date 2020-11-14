@@ -1416,7 +1416,7 @@ _Hands-on:_
 
 **DAY 81 | 11/09/2020 |Monday**
 
-**Today&#39;s Progress:** Reading &amp; practicing Kubernetes Debugging
+**Today&#39;s Progress:** Reading &amp; practicing Kubernetes Debugging : 
 
 _Reading:_
 
@@ -1435,7 +1435,7 @@ _Hands-on:_
 
 **DAY 82 | 11/10/2020 |Tuesday**
 
-**Today&#39;s Progress:** Reading &amp; practicing Scheduling and Eviction : Kubernetes Debugging
+**Today&#39;s Progress:** Reading &amp; practicing Kubernetes Debugging :
 
 _Reading:_
 
@@ -1455,7 +1455,7 @@ _Hands-on:_
 
 **DAY 83 | 11/11/2020 |Wednesday**
 
-**Today&#39;s Progress:** Reading &amp; practicing Scheduling and Eviction : Kubernetes Debugging
+**Today&#39;s Progress:** Reading &amp; practicing Kubernetes Debugging :
 
 _Reading:_
 
@@ -1475,7 +1475,7 @@ _Hands-on:_
 
 **DAY 84 | 11/12/2020 |Thursday**
 
-**Today&#39;s Progress:** Reading &amp; practicing Scheduling and Eviction : Kubernetes Debugging
+**Today&#39;s Progress:** Reading &amp; practicing Kubernetes Debugging
 
 _Reading:_
 
@@ -1489,3 +1489,38 @@ _Hands-on:_
 
 
 *************************
+
+**DAY 85 | 12/13/2020 |Friday**
+
+**Today&#39;s Progress:** Reading &amp; practicing Kubernetes Services
+
+_Reading:_
+
+- Read about [services](https://kubernetes.io/docs/concepts/services-networking/)
+
+_Hands-on:_
+
+- [Created external load balancer](https://kubernetes.io/docs/tasks/access-application-cluster/create-external-load-balancer/)
+- [Connected backend to frontend using service](https://kubernetes.io/docs/tasks/access-application-cluster/connecting-frontend-backend/)
+
+![](RackMultipart20201114-4-4pykw1_html_237499165a11f2b9.gif)
+
+
+*******************
+
+
+**DAY 86 | 12/14/2020 |Saturday**
+
+**Today&#39;s Progress:** Reading &amp; practicing Kubernetes Services
+
+_Reading:_
+
+- Read about [service topology](https://kubernetes.io/docs/concepts/services-networking/service-topology/)
+
+_Hands-on:_
+
+- [Connect application using service](https://kubernetes.io/docs/concepts/services-networking/connect-applications-service/)
+- [Used service to access application in a cluster](https://kubernetes.io/docs/tasks/access-application-cluster/service-access-application-cluster/)
+- [Enabled service topology](https://kubernetes.io/docs/tasks/administer-cluster/enabling-service-topology/)
+
+***************
