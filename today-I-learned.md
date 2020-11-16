@@ -1508,7 +1508,6 @@ _Hands-on:_
 
 *******************
 
-
 **DAY 86 | 12/14/2020 |Saturday**
 
 **Today&#39;s Progress:** Reading &amp; practicing Kubernetes Services
@@ -1523,4 +1522,41 @@ _Hands-on:_
 - [Used service to access application in a cluster](https://kubernetes.io/docs/tasks/access-application-cluster/service-access-application-cluster/)
 - [Enabled service topology](https://kubernetes.io/docs/tasks/administer-cluster/enabling-service-topology/)
 
+
+
 ***************
+
+**DAY 87 | 12/15/2020 |Sunday**
+
+**Today&#39;s Progress:** Reading &amp; practicing Kubernetes Services DNS
+
+- Read about [DNS for services and pods](https://kubernetes.io/docs/concepts/services-networking/dns-pod-service/)
+
+_Hands-on:_
+
+- [Customized DNS service](https://kubernetes.io/docs/concepts/services-networking/dns-pod-service/)
+- [Debugged DNS resolution](https://kubernetes.io/docs/tasks/administer-cluster/dns-debugging-resolution/)
+
+![](RackMultipart20201116-4-lizd5t_html_237499165a11f2b9.gif)
+
+
+**************
+
+
+**DAY 88 | 12/16/2020 |Monday**
+
+**Today&#39;s Progress:** Reading &amp; practicing Kubernetes Ingress and Ingress Controller
+
+_Reading:_
+
+- Read about [ingress](https://kubernetes.io/docs/concepts/services-networking/ingress/) and[ingress controller](https://kubernetes.io/docs/concepts/services-networking/ingress-controllers/)
+
+_Hands-on:_
+
+- [Set up Ingress on Minikube with the NGINX Ingress Controller](https://kubernetes.io/docs/tasks/access-application-cluster/ingress-minikube/)
+- [Debugged DNS resolution](https://kubernetes.io/docs/tasks/administer-cluster/dns-debugging-resolution/)
+
+![](RackMultipart20201116-4-lizd5t_html_237499165a11f2b9.gif)
+
+
+***********
