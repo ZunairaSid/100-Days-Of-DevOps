@@ -1560,3 +1560,39 @@ _Hands-on:_
 
 
 ***********
+
+**DAY 89 | 12/17/2020 |Tuesday**
+
+**Today&#39;s Progress:** Reading &amp; practicing Kubernetes network policies
+
+_Reading:_
+
+- Read about [network policies](https://kubernetes.io/docs/concepts/services-networking/network-policies/)
+
+_Hands-on:_
+
+- [Declared network policy](https://kubernetes.io/docs/tasks/administer-cluster/declare-network-policy/)
+
+![](RackMultipart20201118-4-fwau34_html_237499165a11f2b9.gif)
+
+
+**************
+
+
+
+**DAY 90 | 12/18/2020 |Wednesday**
+
+**Today&#39;s Progress:** Reading &amp; practicing Kubernetes debugging &amp; troubleshooting
+
+_Reading:_
+
+- Read about [troubleshooting](https://kubernetes.io/docs/tasks/debug-application-cluster/troubleshooting/)[cluster](https://kubernetes.io/docs/tasks/debug-application-cluster/debug-cluster/) &amp; [application](https://kubernetes.io/docs/tasks/debug-application-cluster/debug-application/) , [Application Introspection and Debugging](https://kubernetes.io/docs/tasks/debug-application-cluster/debug-application-introspection/)
+
+_Hands-on:_
+
+- [Use Port Forwarding to Access Applications in a Cluster](https://kubernetes.io/docs/tasks/access-application-cluster/port-forward-access-application-cluster/)
+- [Use an HTTP Proxy to Access the Kubernetes API](https://kubernetes.io/docs/tasks/extend-kubernetes/http-proxy-access-api/)
+- [Got a Shell to a Running Container](https://kubernetes.io/docs/tasks/debug-application-cluster/get-shell-running-container/)
+
+![](RackMultipart20201118-4-fwau34_html_237499165a11f2b9.gif)
+
