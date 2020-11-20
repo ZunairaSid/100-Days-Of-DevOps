@@ -1596,3 +1596,32 @@ _Hands-on:_
 
 ![](RackMultipart20201118-4-fwau34_html_237499165a11f2b9.gif)
 
+
+***********
+
+**DAY 91 | 12/19/2020 |Thursday**
+
+**Today&#39;s Progress:** Practicing Kubernetes
+
+_Hands-on:_
+
+- [Deployed WordPress and MySQL with Persistent Volumes](https://kubernetes.io/docs/tutorials/stateful-application/mysql-wordpress-persistent-volume/)
+- [Deployed WordPress on GKE with Persistent Disks and Cloud SQL](https://cloud.google.com/kubernetes-engine/docs/tutorials/persistent-disk)
+
+![](RackMultipart20201120-4-1nnqmmi_html_237499165a11f2b9.gif)
+
+
+
+******************
+
+**DAY 92 | 12/20/2020 |Friday**
+
+**Today&#39;s Progress:** Practicing Kubernetes debugging &amp; troubleshooting
+
+_Hands-on:_
+
+- [Deploying Cassandra with a StatefulSet](https://kubernetes.io/docs/tutorials/stateful-application/cassandra/)
+
+![](RackMultipart20201120-4-1nnqmmi_html_237499165a11f2b9.gif)
+
+*******************
