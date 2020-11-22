@@ -1625,3 +1625,48 @@ _Hands-on:_
 ![](RackMultipart20201120-4-1nnqmmi_html_237499165a11f2b9.gif)
 
 *******************
+
+**DAY 93 | 12/22/2020 |Saturday**
+
+**Today&#39;s Progress:** Practicing Kubernetes debugging &amp; troubleshooting
+
+_Hands-on:_
+
+- [Deploying PHP Guestbook application with Redis](https://kubernetes.io/docs/tutorials/stateless-application/guestbook/)
+
+![](RackMultipart20201122-4-1ssia1k_html_237499165a11f2b9.gif)
+
+
+*************
+
+**DAY 94 | 12/23/2020 |Sunday**
+
+**Today&#39;s Progress:** Practicing Kubernetes
+
+_Hands-on:_
+
+- [Exposing an External IP Address to Access an Application in a Cluster](https://kubernetes.io/docs/tutorials/stateless-application/expose-external-ip-address/)
+- [Running ZooKeeper, A Distributed System Coordinator](https://kubernetes.io/docs/tutorials/stateful-application/zookeeper/)
+
+![](RackMultipart20201122-4-1ssia1k_html_237499165a11f2b9.gif)
+
+
+*****************
+
+**DAY 95 | 12/24/2020 |Monday**
+
+**Today&#39;s Progress:** Reading &amp; practicing Helm
+
+_Reading:_
+
+- Read about[helm](https://helm.sh/docs/intro/using_helm/)
+
+_Hands-on:_
+
+- [Installed](https://helm.sh/docs/intro/install/) and created helm chart.
+- Created custom help charts.
+
+![](RackMultipart20201122-4-1ssia1k_html_237499165a11f2b9.gif)
+
+
+**********************8
