@@ -1626,7 +1626,7 @@ _Hands-on:_
 
 *******************
 
-**DAY 93 | 12/22/2020 |Saturday**
+**DAY 93 | 12/21/2020 |Saturday**
 
 **Today&#39;s Progress:** Practicing Kubernetes debugging &amp; troubleshooting
 
@@ -1639,7 +1639,7 @@ _Hands-on:_
 
 *************
 
-**DAY 94 | 12/23/2020 |Sunday**
+**DAY 94 | 12/22/2020 |Sunday**
 
 **Today&#39;s Progress:** Practicing Kubernetes
 
@@ -1653,7 +1653,7 @@ _Hands-on:_
 
 *****************
 
-**DAY 95 | 12/24/2020 |Monday**
+**DAY 95 | 12/23/2020 |Monday**
 
 **Today&#39;s Progress:** Reading &amp; practicing Helm
 
@@ -1669,4 +1669,17 @@ _Hands-on:_
 ![](RackMultipart20201122-4-1ssia1k_html_237499165a11f2b9.gif)
 
 
-**********************8
+**********
+
+**DAY 96 | 12/24/2020 |Tuesday**
+
+**Today&#39;s Progress:** Practicing Kubernetes debugging &amp; troubleshooting
+
+_Hands-on:_
+
+- [Set up HTTP(S) Load Balancing with Ingress](https://cloud.google.com/kubernetes-engine/docs/tutorials/http-balancer)
+
+![](RackMultipart20201123-4-1uqofpg_html_237499165a11f2b9.gif)
+
+
+********
