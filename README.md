@@ -109,34 +109,77 @@ I will dedicate at least 3 hours from my day for this challenge and will share m
 
 **Kubernetes Hands-on task**
 
-- [ ] Install and test components of kubernetes cluster.
-- [ ] Setup kubernetes cluster with docker.
-- [ ] Deploy Go microservice to kubernetes.
-- [ ] Create a kubernetes cluster.
-- [ ] Generate kubeconfig.
-- [ ] Set up a frontend load balancer.
-- [ ] Bootstrap kubernetes control panel
-- [ ] Bootstrap worker nodes.
-- [ ] AutoScale deployment.
-- [ ] Schedule pods with taints &amp; tolerance.
-- [ ] Deploy pod to a node with a label.
-- [ ] Configure probes for pods.
-- [ ] Implement state persistence for pods.
-- [ ] Create PV for pods.
-- [ ] Perform rolling update of a Go application.
-- [ ] Configure cron job.
-- [ ] Roll update of application.
-- [ ] Set up a self healing application.
-- [ ] Canary deployment with jenkins and kubernetes.
-- [ ] Istio in kubernetes.
-- [ ] Pod Security Policy.
-- [ ] Monitor and output logs to a file.
-- [ ] Monitoring with Prometheus &amp; gafana.
-- [ ] Create a Service and Discovering DNS Name.
-- [ ] Expose service to the internet.
-- [ ] Create a cluster role to access PV.
-- [ ] Repair failed pod.
-- [ ] Create alert rules.
+- [x] Install and test components of kubernetes cluster.
+- [x] Setup kubernetes cluster with docker.
+- [x] Deploy Go microservice to kubernetes.
+- [x] Create a kubernetes cluster.
+- [x] Generate kubeconfig.
+- [x] Set up a frontend load balancer.
+- [x] Set up a self healing application.
+- [x] Assign memory resources , CPU , extended resources to containers and pods.
+- [x] Configure default memory requests , limits and default CPU requests and limits for a Namespace.
+- [x] Configure minimum and maximum memory and CPU constraints for a Namespace.
+- [x] Configure Memory and CPU Quotas for a Namespace.
+- [x] Configure a Pod Quota for a Namespace.
+- [x] Configure Quotas for API Objects.
+- [x] Assign pods to nodes.
+- [x] Assign pods to nodes using node affinity.
+- [x] Access clusters using the kubernetes API.
+- [x] Create a multi-container pod using the ambassador mode.
+- [x] Create static pods.
+- [x] Configure a pod to share process namespace between containers in a pod
+- [x] Attach handlers to container lifecycle events.
+- [x] Configure a pod to use a ConfigMap and secret.
+- [x] Create Deployment , StatefulSet, Replicaset & Replica Controller DaemonSet.
+- [x] Perform a rolling update and rollback of a Deployment.
+- [x] Deploy Cassandra with a StatefulSet.
+- [x] Scale,Delete,Force delete a StatefulSet.
+- [x] Run a job.
+- [x] Run automated tasks with a CronJob
+- [x] Clean up a finished job.
+- [x] Run a stateless application using a deployment.
+- [x] Run a single-instance stateful application.
+- [x] Create secret and consumed secret value from environment variables.
+- [x] Configure DNS for a cluster.
+- [x] Customize DNS Service.
+- [x] Safely drain a Node.
+- [x] Set up high-availability kubernetes masters.
+- [x] Upgrade a cluster.
+- [x] Change the default StorageClass.
+- [x] Configure Liveness, Readiness and Startup Probes.
+- [x] Configure a Pod to use a Volume ,PersistentVolume and Projected Volume for Storage.
+- [x] Configure a Security Context for a Pod or Container.
+- [x] Configure Service Accounts for Pods.
+- [x] Clean up Job automatically.
+- [x] Used resource quote in PVC provisioning .
+- [x] Logging using Stackdriver.
+- [x] Logging using Elasticsearch and Kibana.
+- [x] Use service to access application in a cluster.
+- [x] Enabled service topology.
+- [x] Customize DNS service.
+- [x] Set up Ingress on Minikube with the NGINX Ingress Controller.
+- [x] Declared network policy.
+- [x] Use port forwarding to access applications in a Cluster.
+- [x] Use an HTTP proxy to access the Kubernetes API.
+- [x] Get a shell to a running container.
+- [x] Deployed WordPress and MySQL with Persistent Volumes.
+- [x] Deployed WordPress on GKE with Persistent Disks and Cloud SQL.
+- [x] Deploying Cassandra with a StatefulSet.
+- [x] Deploying PHP Guestbook application with Redis.
+- [x] Exposing an external IP address to access an application in a cluster.
+- [x] Set up HTTP(S) load balancing with Ingress.
+- [x] Connect a frontend to a backend using a Service.
+- [x] Perform a rolling update on a DaemonSet.
+- [x] Perform a rollback on a DaemonSet.
+- [x] Use a service to access an application in a cluster.
+- [x] Communicate between containers in the same pod using a shared volume.
+- [x] Configure quality of service for pods.
+- [x] Configure a pod to use a Volume , PersistentVolume and Projected Volume for storage.
+- [x] Configure a security context for a pod or container.
+- [x] Configure service accounts for pods.
+- [x] Pull an image from a private registry.
+- [x] Install service catalog using Helm.
+- [x] Repair failed pod.
 - [ ] Practice common kubernetes debugging skill.
 - [ ] Smoke test the cluster.
 - [ ] CKAD Practice exam-1.
