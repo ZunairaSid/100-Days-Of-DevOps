@@ -1554,7 +1554,9 @@ _Reading:_
 _Hands-on:_
 
 - [Set up Ingress on Minikube with the NGINX Ingress Controller](https://kubernetes.io/docs/tasks/access-application-cluster/ingress-minikube/)
-- [Debugged DNS resolution](https://kubernetes.io/docs/tasks/administer-cluster/dns-debugging-resolution/)
+- Running Automated Tasks with a CronJob
+- Perform a Rolling Update on a DaemonSet
+- Perform a Rollback on a DaemonSet
 
 ![](RackMultipart20201116-4-lizd5t_html_237499165a11f2b9.gif)
 
@@ -1682,4 +1684,22 @@ _Hands-on:_
 ![](RackMultipart20201123-4-1uqofpg_html_237499165a11f2b9.gif)
 
 
-********
+
+***********
+
+**DAY 97 | 12/25/2020 |Wednesday**
+
+**Today&#39;s Progress:** Reading &amp; practicing Kubernetes Ingress and Ingress Controller
+
+_Reading:_
+
+- Read about [ingress](https://kubernetes.io/docs/concepts/services-networking/ingress/) and[ingress controller](https://kubernetes.io/docs/concepts/services-networking/ingress-controllers/)
+
+_Hands-on:_
+
+- [Set up Ingress on Minikube with the NGINX Ingress Controller](https://kubernetes.io/docs/tasks/access-application-cluster/ingress-minikube/)
+- Running Automated Tasks with a CronJob
+- Perform a Rolling Update on a DaemonSet
+- Perform a Rollback on a DaemonSet
+
+![](RackMultipart20201125-4-ehv77l_html_237499165a11f2b9.gif)
