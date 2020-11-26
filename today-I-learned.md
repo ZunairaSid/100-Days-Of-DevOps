@@ -1106,7 +1106,6 @@ _Hands-on:_
 
 - [Created a static pod.](https://kubernetes.io/docs/tasks/configure-pod-container/static-pod/)
 - Created Kubernetes Nginx pod using the YAML file.
-- Created a multi-container pod using the ambassador mode.
 - [Share Process Namespace between Containers in a Pod.](https://kubernetes.io/docs/tasks/configure-pod-container/share-process-namespace/)
 
 ![](RackMultipart20201023-4-ewgchu_html_237499165a11f2b9.gif)
@@ -1673,33 +1672,48 @@ _Hands-on:_
 
 **********
 
-**DAY 96 | 12/24/2020 |Tuesday**
+**DAY 96 | 12/25/2020 |Tuesday**
 
 **Today&#39;s Progress:** Practicing Kubernetes debugging &amp; troubleshooting
 
 _Hands-on:_
 
 - [Set up HTTP(S) Load Balancing with Ingress](https://cloud.google.com/kubernetes-engine/docs/tutorials/http-balancer)
+- Deployed Go application with mongodb on GKE
+- [Upgraded a GKE cluster running a stateful workload](https://cloud.google.com/kubernetes-engine/docs/tutorials/upgrading-stateful-workload)
 
-![](RackMultipart20201123-4-1uqofpg_html_237499165a11f2b9.gif)
+![](RackMultipart20201126-4-x9rtvy_html_237499165a11f2b9.gif)
 
 
-
-***********
+*************
 
 **DAY 97 | 12/25/2020 |Wednesday**
 
-**Today&#39;s Progress:** Reading &amp; practicing Kubernetes Ingress and Ingress Controller
-
-_Reading:_
-
-- Read about [ingress](https://kubernetes.io/docs/concepts/services-networking/ingress/) and[ingress controller](https://kubernetes.io/docs/concepts/services-networking/ingress-controllers/)
+**Today&#39;s Progress:** Practicing Kubernetes debugging &amp; troubleshooting
 
 _Hands-on:_
 
-- [Set up Ingress on Minikube with the NGINX Ingress Controller](https://kubernetes.io/docs/tasks/access-application-cluster/ingress-minikube/)
-- Running Automated Tasks with a CronJob
-- Perform a Rolling Update on a DaemonSet
-- Perform a Rollback on a DaemonSet
+- Set up High-Availability Kubernetes Masters
+- Control CPU Management Policies on the Node
+- [Upgrade A Cluster](https://kubernetes.io/docs/tasks/administer-cluster/cluster-upgrade/)
 
-![](RackMultipart20201125-4-ehv77l_html_237499165a11f2b9.gif)
+![](RackMultipart20201126-4-x9rtvy_html_237499165a11f2b9.gif)
+
+
+************
+
+**DAY 98 | 12/26/2020 |Thursday**
+
+**Today&#39;s Progress:** Practicing &amp; readingKubernetes
+
+_Reading:_
+
+- Read about[helm chart best practices](https://helm.sh/docs/chart_best_practices/)
+
+_Hands-on:_
+
+- [Run a Single-Instance Stateful Application](https://kubernetes.io/docs/tasks/run-application/run-single-instance-stateful-application/)
+- [Scale](https://kubernetes.io/docs/tasks/run-application/scale-stateful-set/)/[Delete](https://kubernetes.io/docs/tasks/run-application/delete-stateful-set/)[/Force delete](https://kubernetes.io/docs/tasks/run-application/force-delete-stateful-set-pod/) a statefulSet
+- [Configure Quotas for API Objects](https://kubernetes.io/docs/tasks/administer-cluster/quota-api-object/)
+
+![](RackMultipart20201126-4-x9rtvy_html_237499165a11f2b9.gif)
