@@ -1617,7 +1617,7 @@ _Hands-on:_
 
 **DAY 92 | 12/20/2020 |Friday**
 
-**Today&#39;s Progress:** Practicing Kubernetes debugging &amp; troubleshooting
+**Today&#39;s Progress:** Practicing Kubernetes
 
 _Hands-on:_
 
@@ -1629,7 +1629,7 @@ _Hands-on:_
 
 **DAY 93 | 12/21/2020 |Saturday**
 
-**Today&#39;s Progress:** Practicing Kubernetes debugging &amp; troubleshooting
+**Today&#39;s Progress:** Practicing Kubernetes 
 
 _Hands-on:_
 
@@ -1674,7 +1674,7 @@ _Hands-on:_
 
 **DAY 96 | 12/25/2020 |Tuesday**
 
-**Today&#39;s Progress:** Practicing Kubernetes debugging &amp; troubleshooting
+**Today&#39;s Progress:** Practicing Kubernetes
 
 _Hands-on:_
 
@@ -1689,7 +1689,7 @@ _Hands-on:_
 
 **DAY 97 | 12/25/2020 |Wednesday**
 
-**Today&#39;s Progress:** Practicing Kubernetes debugging &amp; troubleshooting
+**Today&#39;s Progress:** Practicing Kubernetes 
 
 _Hands-on:_
 
@@ -1704,7 +1704,7 @@ _Hands-on:_
 
 **DAY 98 | 12/26/2020 |Thursday**
 
-**Today&#39;s Progress:** Practicing &amp; readingKubernetes
+**Today&#39;s Progress:** Practicing &amp; reading Helm & Kubernetes
 
 _Reading:_
 
@@ -1717,3 +1717,35 @@ _Hands-on:_
 - [Configure Quotas for API Objects](https://kubernetes.io/docs/tasks/administer-cluster/quota-api-object/)
 
 ![](RackMultipart20201126-4-x9rtvy_html_237499165a11f2b9.gif)
+
+
+***************
+
+**DAY 99 | 12/27/2020 |Friday**
+
+**Today&#39;s Progress:** Practicing Kubernetes Helm and jenkins
+
+_Hands-on:_
+
+- Created node js helm chart.
+- Set up helm repository on s3.
+- [Install Service Catalog using Helm](https://kubernetes.io/docs/tasks/service-catalog/install-service-catalog-using-helm/)
+- Building and deploying Helm chart with jenkins
+
+![](RackMultipart20201128-4-1uetste_html_237499165a11f2b9.gif)
+
+
+
+*************
+
+
+**DAY 100 | 12/28/2020 |Saturday**
+
+**Today&#39;s Progress:** Practicing Kubernetes Monitoring
+
+_Hands-on:_
+
+- [Autoscaling Deployments with Cloud Monitoring metrics](https://cloud.google.com/kubernetes-engine/docs/tutorials/autoscaling-metrics)
+- [Custom and external metrics for autoscaling workloads](https://cloud.google.com/kubernetes-engine/docs/concepts/custom-and-external-metrics)
+
+![](RackMultipart20201128-4-1uetste_html_237499165a11f2b9.gif)
